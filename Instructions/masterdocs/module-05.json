@@ -1,0 +1,16 @@
+[
+    {
+      "Name": "MS-4021 : Copilot Immersion Experience",
+      "Language": "English",
+      "Files": [
+          {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4023-Explore-Microsoft-365-Copilot-Chat/refs/heads/Prod/Instructions/Labs/getting_started.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/13-Copilot-studio-Demo.md",
+          "Order": 2
+        }
+      ]
+    }
+  ]
