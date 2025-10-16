@@ -37,7 +37,7 @@ Let’s start by asking Copilot in Word some questions about a Request for Propo
 
     ![](./Images/p4t2p1.png)
 
-1. Click on the **Upload a file (1)** button, and from the Open dialogue, select the file `Contoso_Completed_RFP.docx` **(2)** and click on **Open (3)**.
+1. Click on the **Upload a file (1)** button, and from the Open dialog, select the file `Contoso_Completed_RFP.docx` **(2)** and click on **Open (3)**.
 
     ![](./Images/p6t1p2.png)
 

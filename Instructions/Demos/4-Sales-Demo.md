@@ -61,12 +61,11 @@ The specific files needed for this demo are:
 
 1. Let’s go a step further and ask Copilot to generate recommendations in a Word document. In the prompt field, enter:
 
-
     ```text
     Based on the trend, suggest two ways I can increase EV charger sales in the Mountain and Midwest regions. Export the recommendations to a Word Document.
     ```
 
-1. Select the **hyperlink** Copilot provides for the new Word document to open it.
+1. Select the **Hyperlink** Copilot provides for the new Word document to open it.
 
     ![](./Images/p4t1p6.png)
 

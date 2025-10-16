@@ -50,7 +50,7 @@ There are no sample documents required for this demo.
     Generate the top 10 questions that {Reporter Name} might ask in my interview. They should be informed by the research conducted above and crafted to be conversational yet concise.
     ```
 
-1. Paste the following prompt, review the generated output, and download the Word document provided by Copilot.
+1. Paste the following prompt, review the generated output, and **download** the **Word document** provided by Copilot.
 
     ```text
     Draft answers to the questions in a table format. Save the table with questions and answers into a Word document.
@@ -72,7 +72,7 @@ The insights and drafts generated in Copilot Chat will now be refined and struct
 
     ![](./Images/p2t2p2.png)
 
-1. Fromt the **Open** window, select the `interview_questions_answers.docx` **(1)** and click **Open (2)**.
+1. From the **Open** window, select the `interview_questions_answers.docx` **(1)** and click **Open (2)**.
 
     ![](./Images/p2t2p3.png)
 

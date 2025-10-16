@@ -59,8 +59,6 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
-
-    [Promotion_Plan_for_Chai_Tea_in_Latin_America.docx], [Mystic_Spice_Premium_Chai_Tea_product_description.docx], [Contoso_Chai_Tea_market_trends.docx]
     ```
 
     ![](./Images/p5t1p3.png)
@@ -73,9 +71,7 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
 
     ![](./Images/p5t1p4.png)
 
-1. Have Copilot create a new section to add social media campaign ideas:
-
-    Input the following prompt:
+1. Have Copilot create a new section to add social media campaign ideas. Paste the following prompt:
 
     ```text
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
@@ -116,7 +112,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     ```
 
     ![](./Images/p5t2p4.png)
-
+<!---
 1. Optionally, for the last prompt, you can ask Copilot to generate a new video for the campaign:
 
     in Copilot chat, on the right hand side, select the **Visual Creator Agent**:
@@ -128,6 +124,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     ```text
     Create a captivating social media video for Mystic Spice Chai Tea that highlights its unique flavor and vibrant appeal. The video should feature eye-catching visuals, with colors, and themes that resonate with young professionals and tea enthusiasts.
     ```
+--->
 
 ### Copilot in Excel
 
