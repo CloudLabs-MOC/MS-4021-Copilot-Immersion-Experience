@@ -8,24 +8,24 @@
           "Order": 1
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/2-Communications-Demo.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/2-Communications-Demo.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/3-HR-Demo.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/3-HR-Demo.md",
           "Order": 3
         },
                {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/4-Sales-Demo.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/4-Sales-Demo.md",
           "Order": 4
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/8-Marketing-Demo.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/8-Marketing-Demo.md",
           "Order": 5
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/9-Operations-Demo.md",
-          "Order": 5
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/9-Operations-Demo.md",
+          "Order": 6
         }
       ]
     }

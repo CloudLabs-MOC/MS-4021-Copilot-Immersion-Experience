@@ -69,6 +69,7 @@ The insights and drafts generated in Copilot Chat will now be refined and struct
     ![](./Images/p2t2p1.png)
 
 1. Upload 
+
     ![](./Images/p2t2p2.png)
 
     ![](./Images/p2t2p3.png)
