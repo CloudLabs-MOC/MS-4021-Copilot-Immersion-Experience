@@ -77,7 +77,6 @@ The insights and drafts generated in Copilot Chat will now be refined and struct
 
     ![](./Images/p2t2p7.png)
 
-
 1. Select anywhere in the body of the document and select the Copilot icon. Type in the following prompt:
 
     ```text
