@@ -29,7 +29,7 @@ The specific files needed for this demo are:
 
 1. Ensure Web mode is selected.
 
-    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+   ![](./Images/p6t2p2.png)
 
 1. Let’s start by asking Copilot to research a key metric. In the **Copilot Chat** prompt field, input:
 
@@ -37,7 +37,7 @@ The specific files needed for this demo are:
     What is the ratio of EV cars to EV chargers by region in the US for the past 3 years? Please show it in a table organized by region.
     ```
 
-    ![Screenshot showing Copilot Chat EV charger Prompt.](../Demos/Media/copilot-chat-ev-charger-prompt.png)
+    ![](./Images/p4t1p3.png)
 
 1. Now let’s compare national trends to your company’s sales performance. You’ll upload the provided dataset and ask Copilot to visualize the data:
 
@@ -50,8 +50,14 @@ The specific files needed for this demo are:
     > **NOTE:** Do not submit the prompt yet. Move to the next step to upload the file.
 
 1. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Resourcefiles/Charger_sales_report_2022-2024.xlsx). Then submit the prompt.
+    
+    ![](./Images/p4t1p4.png)
 
-    ![Add content Copilot chat.](../Demos/Media/add-content-copilot-chat.png)
+    ![](./Images/p4t1p4(1).png)
+
+1. Review the result.
+
+    ![](./Images/p4t1p5.png)
 
 1. Let’s take it a step further by asking Copilot for recommendations exported to a Word document:
 
@@ -63,6 +69,8 @@ The specific files needed for this demo are:
 
 1. Select the hyperlink Copilot provides for the new Word document to open it.
 
+    ![](./Images/p4t1p6.png)
+
 1. Once opened, select **Enable Editing** and then turn on "AutoSave". Select your OneDrive account when prompted.
 
 ### Copilot in Word
@@ -70,6 +78,12 @@ The specific files needed for this demo are:
 We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
 
 1. The generated Word document from the previous demo should already be open, if not open it now (either in your browser or desktop application).
+
+    ![](./Images/p4t2p1.png)
+
+1. Upload word file.
+
+    ![](./Images/p4t2p2.png)
 
 1. Select anywhere in the body of the document and select the Copilot icon.
 
@@ -79,11 +93,19 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
     Draft a detailed proposal on how we could implement each of the strategies outlined in this document. Ensure the plan is actionable and includes resource requirements, timelines, and key stakeholders.
     ```
 
+    ![](./Images/p4t2p3.png)
+
 1. Select **Keep it** or, if time permits, demonstrate how to tweak the document using Copilot.
 
-1. Once finished, save the document as **EV Sales Proposal.docx** and copy the shared URL to be used in the next step (enable AutoSave and select your OneDrive account).
+    ![](./Images/p4t2p4.png)
 
-    ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
+1. Once finished, save the document as **EV Sales Proposal.docx**.
+
+    ![](./Images/p4t2p5.png)
+
+1. copy the shared URL to be used in the next step (enable AutoSave and select your OneDrive account).
+
+    ![](./Images/p4t2p6.png)
 
     > **Trainer Tip:** Use this step to demonstrate how Copilot builds on prior outputs, refining ideas into a cohesive proposal.
 
@@ -91,9 +113,19 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 
 1. Launch Microsoft PowerPoint from your browser [PowerPoint.new](https://PowerPoint.new) or use the desktop application.
 
+    ![](./Images/p4t3p1.png)
+
 1. Open a new blank presentation.
 
+    ![](./Images/p4t3p2.png)
+
+1. AI that works for you- Microsoft 365 Premium.
+
+    ![](./Images/p4t3p3.png)
+
 1. In the Copilot pane, select the "Create presentation from file" prompt.
+
+    ![](./Images/p4t3p4.png)
 
 1. Paste the **EV Sales Proposal.docx** link after "Create a presentation from" and select **Send**.
 
@@ -103,8 +135,15 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
     Create a presentation from [Link to EV Sales Proposal.docx].
     ```
 
+    ![](./Images/p4t3p5.png)
+
 1. Copilot begins generating slides based on the EV Sales Proposal, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
 
-    > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
+    ![](./Images/p4t3p6.png)
+
+1. Keep it.
+
+    ![](./Images/p4t3p7.png)
+
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
