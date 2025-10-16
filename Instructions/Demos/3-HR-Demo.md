@@ -37,40 +37,41 @@ The specific files needed for this demo are:
 
 Let’s start by asking Copilot in Word to generate a job description.
 
-1. Open Word (either in your browser or desktop application).
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Word (2)** under Apps section.
 
     ![](./Images/p3t1p1(1).png)
 
-1. Upload
+1. On the Word window, click on **Upload a file**.
 
     ![](./Images/p3t1p2.png)
 
+1. In the Open window, select the file `Graphic_Design_Institute_Design_Team_Responsibilities.docx` **(1)** and click **Open (2)**.
+
     ![](./Images/p3t1p2(1).png)
 
-1. In the **"Describe what you'd like to write"** prompt box, type the following:
+1. In the **What you want Copilot to draft?** prompt box, paste **(1)** the following and the click on the **+ Add content (2)** and select the `Graphic_Design_Institute_Design_Team_Responsibilities.docx` **(3)** and then click on the **Generate (4)** icon:
 
     ```text
     I'm the HR Manager at the Graphic Design Institute. We've currently started the hiring process for a new Senior Animation Designer. Please review the attached document outlining the job responsibilities for this role and generate a detailed job description based on this information.
-
-    [copy link or reference file to Design_Team_Responsibilities.docx]
     ```
 
     ![](./Images/p3t1p3.png)
 
     > **NOTE:** Attach the Design_Team_Responsibilities.docx file or paste the shared link directly into the prompt to ensure Copilot has access to the relevant content.
-1. Keep it
+
+1. Review the response and then click on **Keep it**.
 
     ![](./Images/p3t1p4.png)
 
-1. After reviewing and finalizing the job description, save the document as **GDI_Job_Description.docx** 
+1. After reviewing and finalizing the job description, click on the drop-down (1) and rename the document as **GDI_Job_Description (2)**. 
 
     ![](./Images/p3t1p5.png)
 
-1. and copy the shared URL for use in the next step. (Enable AutoSave and select your OneDrive account if prompted.)
+1. Click on the **Share (1)** drop-down and select **Copy link (2)**.
 
     ![](./Images/p3t1p6.png)
 
-1. Link copied
+1. Close the **Link copied** pop-up window.
 
     ![](./Images/p3t1p6(1).png)
 
@@ -82,19 +83,14 @@ Next, we'll use Copilot Chat to compare resumes we've received to the job descri
 
     ![](./Images/p3t2p1.png)
 
-1. Ensure Work Mode is selected.
+1. Ensure **Work** mode is selected.
 
     ![](./Images/p3t2p2.png)
 
-1. In the prompt window, type the following:
+1. In the prompt window, paste the following text and include the link copied from the previous task. Click **+ Add content and agents (1)**, then select **Upload images and files (2)**. In the Open dialog, choose the files **`Resume_Patti_Fernandez.docx`**, **`Resume_Nestor_Wilke.docx`**, **`Resume_Holly_Dickson.docx`**, and **`Resume_Alex_Wilber.docx` (3)**, then click **Open (4)**:
 
     ```text
     We are hiring for the position of Senior Animation Designer. Please analyze the attached resumes and compare them to the requirements outlined in the job description provided here: [paste link to GDI_Job_Description.docx]. Rank the candidates from most qualified to least qualified, based on their alignment with the role.
-
-    [Resume - Patti Fernandez
-    Resume - Nestor Wilke
-    Resume - Holly Dickson
-    Resume - Alex Wilber]
     ```
 
     ![](./Images/p3t2p3.png)
@@ -105,9 +101,11 @@ Next, we'll use Copilot Chat to compare resumes we've received to the job descri
 
     > **NOTE:** Attach the resumes or upload them to the prompt window. Alternatively, reference each file using the shared links or filenames in your OneDrive.
 
-1. Review 
+1. Check the prompt to ensure it resembles the image below.
 
     ![](./Images/p3t2p5.png)
+
+1. Review the response.
 
     ![](./Images/p3t2p5(1).png)
 
@@ -117,20 +115,20 @@ Next, we'll use Copilot Chat to compare resumes we've received to the job descri
 
 Lastly, use Copilot in Outlook to draft an email to the hiring team regarding the top candidates.
 
-1. Open Outlook (either in your browser or desktop application).
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Outlook (2)** under Apps section.
 
     ![](./Images/p3t3p1.png)
 
 
-1. Select **New Email**.
+1. On the outlook window, select **New Email**.
 
     ![](./Images/p3t3p2.png)
 
-1. Select **Copilot** in the ribbon. From the drop-down menu, choose **Draft with Copilot**.
+1. Click the **Copilot (1)** icon in the Outlook ribbon, then select **Draft (2)** from the drop-down menu.
 
     ![](./Images/p6t3p3(1).png)
 
-1. In the **"What do you want this email to say?"** prompt window, type the following:
+1. In the **"What do you want this email to say?"** prompt window, paste the following:
 
     ```text
     Please draft an email to the hiring team to share that Nestor Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
@@ -138,7 +136,7 @@ Lastly, use Copilot in Outlook to draft an email to the hiring team regarding th
 
     ![](./Images/p3t3p3.png)
 
-1. Keep it.
+1. Click on the **Keep it**.
 
     ![](./Images/p3t3p4.png)
 

@@ -26,13 +26,15 @@ There are no sample documents required for this demo.
 
     ![](./Images/p2t1p2.png)
 
-1. In the prompt window, **paste (1)** the following prompt and then click on the **arrow (2)** or press **Enter**:
+1. In the prompt field, **paste (1)** the prompt given below, then either click the **arrow icon (2)** or press **Enter** to proceed.
 
     ```text
     I am going to be interviewed by {Reporter Name} from {News Outlet Name} about {Specific Topic, e.g., 'sustainability in tech'}. What are some key things I should know about their previous work and approach to this topic?
     ```
 
     ![](./Images/p2t1p3.png)
+
+1. Review the respone provided by the copilot.
 
     ![](./Images/p2t1p3(1).png)
 
@@ -48,9 +50,7 @@ There are no sample documents required for this demo.
     Generate the top 10 questions that {Reporter Name} might ask in my interview. They should be informed by the research conducted above and crafted to be conversational yet concise.
     ```
 
-1. Draft answers to the anticipated questions and organize them in a table format. Save the table into a Word document for future use.
-
-    Input the following prompt:
+1. Paste the following prompt, review the generated output, and download the Word document provided by Copilot.
 
     ```text
     Draft answers to the questions in a table format. Save the table with questions and answers into a Word document.
@@ -64,21 +64,23 @@ There are no sample documents required for this demo.
 
 The insights and drafts generated in Copilot Chat will now be refined and structured into an FAQ in Word.
 
-1. Open the saved Word document with the Q&A table from Step 5.
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Word (2)** under Apps section.
 
-    ![](./Images/p2t2p1.png)
+    ![](./Images/p3t1p1(1).png)
 
-1. Upload 
+1. On the Word page, click on **Upload a file**.
 
     ![](./Images/p2t2p2.png)
 
+1. Fromt the **Open** window, select the `interview_questions_answers.docx` **(1)** and click **Open (2)**.
+
     ![](./Images/p2t2p3.png)
 
-1. Copilot
+1. Wait for the document to open, then click the **Draft with Copilot** icon in it.
 
     ![](./Images/p2t2p7.png)
 
-1. Select anywhere in the body of the document and select the Copilot icon. Type in the following prompt:
+1. Enter the following prompt **(1)**, then select **Generate (2)** to proceed.
 
     ```text
     Create an FAQ for a technical audience who are new to {Specific Topic}. Include the top 15 questions for publishing on a blog. Leverage the questions and answers from this document.

@@ -35,21 +35,27 @@ The specific files needed for this demo are:
 
 Use Copilot in Word to draft a detailed market analysis report and brainstorm creative marketing campaign ideas tailored to the Latin American market.
 
-1. Open One drive (2).
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **OneDrive (2)** under Apps section.
 
     ![](./Images/p5t1p1(1).png)
 
-1. Click  
+1. Click on **+ Create or upload (1)** button, and select **Files upload (2)**. 
 
     ![](./Images/p5t1p1(2).png)
 
-    ![](./Images/p5t1p1(3).png)
+1. On the Open window, select the following files **(3)** and then click **Open (4)**.
 
-1. Open Word (either in your browser or desktop application).
+    - `Promotion_Plan_for_Chai_Tea_in_Latin_America.docx`
+    - `Mystic_Spice_Premium_Chai_Tea_product_description.docx`
+    - `Contoso_Chai_Tea_market_trends.docx`
+
+        ![](./Images/p5t1p1(3).png)
+
+1. Open **Word** in your browser from the Apps section on the M365 homepage, then click **+ Create blank document**.
 
     ![](./Images/p5t1p2.png)
 
-1. In the **What do you want Copilot to draft?** prompt box, type the following:
+1. In the **What do you want Copilot to draft?** prompt box, paste the following text. Then click **+ Add content (1)** and select the three files **(2)** that were uploaded earlier (Step 3):
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -63,7 +69,7 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
 
     > **NOTE:** Brackets indicate that a document is being referenced. When referencing a document, you can paste the shared link directly or reference the file name if it is available in your OneDrive.
 
-1. Keep it
+1. Review the result and then click on **Keep it**.
 
     ![](./Images/p5t1p4.png)
 
@@ -75,7 +81,7 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. In the Copilot window, select Keep it to change the document from a Copilot draft to an actual Word document. Then save this new document as **LATAM_Market_Analysis.docx**.
+1. When you’re done, click the **drop-down (1)** icon in the top-left corner of the page. Enter **LATAM_Market_Analysis (2)** as the file name, then click anywhere outside the field to save it. 
 
     ![](./Images/p5t1p5.png)
 
@@ -85,7 +91,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
-1. Ensure Web mode is selected.
+1. Ensure **Web** mode is selected.
 
     ![](./Images/p5t2p1.png)
 
@@ -97,7 +103,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
     > **NOTE:** Do not submit the prompt yet. Move to the next step to upload the file.
 
-1. Select **Add Content** and upload the **LATAM_Market_Analysis.docx** you saved to your OneDrive in the previous demo. Then submit the prompt.
+1. Click **+ Add content and agents (1)** and select **Attach cloud files (2)**, and select the **LATAM_Market_Analysis.docx (3)**, and the click on **Upload (4)**. Then submit the prompt.
 
     ![](./Images/p5t2p2.png)
 
@@ -127,26 +133,26 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 1. Ensure you have downloaded [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) and open the document in Excel (either on the web or desktop application).
 
-1. Open Excel
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Excel (2)** under Apps section.
 
     ![](./Images/p5t3p1.png)
 
-1. Upload a file
+1. In the **Excel** window, click **Upload a file (1)**. In the Open dialog, select **`Contoso_Chai_Tea_social_marketing_trends.xlsx` (2)** and click **Open (3)**.
 
     ![](./Images/p5t3p2.png)
 
     ![](./Images/p5t3p2(1).png)
 
-1. select **Copilot** from the excel ribbon, then select **App skills** to open the Copilot pane.
+1. Click the `Search for tools, help, and more (Alt + Q)` bar **(1)** at the top of the window, select **Copilot (2)**, and then click **App Skills (3)** to open the Copilot pane.
 
     ![](./Images/p5t3p3.png)
 
-1. Type in the following prompt into Excel:
+1. Paste the following prompt into Copilot pane:
 
     ```text
     On average, how many sales do we get per social media campaign view?
     ```
-    
+
     ![](./Images/p5t3p4.png)
 
     ![](./Images/p5t3p4(1).png)

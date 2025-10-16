@@ -33,11 +33,11 @@ The specific files needed for this demo are:
 
 Let’s start by asking Copilot in Word some questions about a Request for Proposal (RFP) document.
 
-1. Open Word (either in your browser or desktop application).
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Word (2)** under Apps section.
 
     ![](./Images/p4t2p1.png)
 
-1. Open the following document: [Contoso_Completed_RFP.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Completed_RFP.docx)
+1. Click on the **Upload a file (1)** button, and from the Open dialogue, select the file `Contoso_Completed_RFP.docx` **(2)** and click on **Open (3)**.
 
     ![](./Images/p6t1p2.png)
 
@@ -73,11 +73,11 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).  
 
-1. Ensure **Web Mode** is selected.
+1. Ensure **Web** mode is selected.
 
     ![](./Images/p6t2p2.png)
 
-1. Enter the following prompt:
+1. Paste the following prompt and the click on the **+ Add content and agents (1)** icon, and select **Upload images and files (2)**. From the Open dialgue, select the file `Project_Guidelines_Contoso.docx` **(3)** and then click **Open (4)**:
 
    ```text
    Summarize highlighting the key objectives, scope, implementation timeline, budget, compliance needs, and vendor selection criteria in a bulleted list.
@@ -87,8 +87,7 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
 
     ![](./Images/p6t2p3(1).png)
     
-    > **NOTE:** Brackets indicate that a document is being referenced. Use the link:
-    > [Project_Guidelines_Contoso.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Project_Guidelines_Contoso.docx)
+1. Review the response. 
 
     ![](./Images/p6t2p4.png)
 
@@ -98,17 +97,16 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
    Extract and summarize the key vendor selection criteria from this document, including weight percentages and evaluation factors.
    ```
 
-1. Then, ask Copilot to create an RFP based on the project guidelines:
+1. Next, instruct Copilot to generate an RFP using the project guidelines and include the file **`Contoso_RFP_Template.docx`**, similar to how we added **Project_Guidelines_Contoso.docx** earlier in Step 3.
+
 
    ```text
-   Using the project requirements outlined above, draft an RFP using the following template: [Contoso_RFP_Template.docx].
+   Using the project requirements outlined above, draft an RFP using the following template:
    ```
 
     ![](./Images/p6t2p6.png)
 
-    > **NOTE:** Brackets indicate that a document is being referenced.
-
-1. **Copy the generated RFP** to your clipboard for use in the next demo.
+1. Use the **Copy response** icon to copy the generated RFP to your clipboard for the next demo.
 
     ![](./Images/p6t2p7.png)
 
@@ -118,19 +116,19 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
 
 Lastly, use Copilot in Outlook to draft an email to potential suppliers summarizing the RFP document.
 
-1. Open Outlook (either in your browser or desktop application).
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Outlook (2)** under Apps section.
 
     ![](./Images/p6t3p1.png)
 
-1. Select **New Email**.
+1. On the outlook window, select **New Email**.
 
     ![](./Images/p6t3p2.png)
 
-1. Select **Copilot (1)** in the ribbon. From the drop-down menu, choose **Draft (2)**.
+1. Click the **Copilot (1)** icon in the Outlook ribbon, then select **Draft (2)** from the drop-down menu.
 
     ![](./Images/p6t3p3(1).png)
 
-1. In the **"What do you want this email to say?"** prompt window, type:
+1. In the **"What do you want this email to say?"** prompt window, paste the following:
 
    ```text
    Draft an email to potential suppliers summarizing the RFP below:
@@ -142,7 +140,7 @@ Lastly, use Copilot in Outlook to draft an email to potential suppliers summariz
 
     > **NOTE:** Paste the RFP contents that you copied from the previous demo.
 
-1. Once the draft is generated, you can use the **Adjust** feature to modify the tone, length, or level of formality.
+1. After the draft is generated, use the **Modify content** options to adjust the tone, length, or formality, or click **Keep it** if you’re satisfied with Copilot’s output.
 
     ![](./Images/p6t3p4.png)
 
