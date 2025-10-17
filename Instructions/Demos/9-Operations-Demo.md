@@ -99,11 +99,10 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
 
 1. Next, instruct Copilot to generate an RFP using the project guidelines and include the file **`Contoso_RFP_Template.docx`**, similar to how we added **Project_Guidelines_Contoso.docx** earlier in Step 3.
 
-
     ```text
     Using the project requirements outlined above, draft an RFP using the following template:
     ```
-
+    
     ![](./Images/p6t2p6.png)
 
 1. Use the **Copy response** icon to copy the generated RFP to your clipboard for the next demo.
