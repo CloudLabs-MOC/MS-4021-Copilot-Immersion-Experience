@@ -8,11 +8,11 @@
           "Order": 1
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/5-IT-Demo.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/5-IT-Demo.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/master/Instructions/Demos/10-Legal-Demo.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/10-Legal-Demo.md",
           "Order": 3
         }
       ]
