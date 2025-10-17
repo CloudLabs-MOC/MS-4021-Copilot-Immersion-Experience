@@ -21,11 +21,13 @@ There are no sample documents required for this demo.
 
 Let’s start by researching the EU Artificial Intelligence Act and its potential impact on Contoso’s AI hiring tool.
 
-1. Open a browser and navigate to [M365Copilot.com](https://m365Copilot.com/).
+1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
-1. Ensure **Web Mode** is selected.
+    ![](./Images/m3p2t1p1.png)
 
-    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+1. Ensure **Web** mode is selected.
+
+    ![](./Images/m3p2t1p2.png)
 
 1. In the prompt window, type the following:
 
@@ -55,25 +57,39 @@ Let’s start by researching the EU Artificial Intelligence Act and its potentia
     Summarize all the information we've discussed into a structured list, ensuring no key details are missed. Then, export the summary to a Word document
     ```
 
-1. Select the hyperlink Copilot provides for the new Word document to open it.
+1. Select the **hyperlink** that Copilot provides to the newly created file to **download** it to your Downloads folder.
 
-1. Once opened, select **Enable Editing** and then turn on "AutoSave". Select your OneDrive account when prompted.
+    ![](./Images/m3p3t1p6.png)
 
-1. Copy the shared URL for use in the next step. (Enable AutoSave and select your OneDrive account if prompted.)
+1. In the left navigation pane of the M365 Copilot homepage, click **Apps (1)**, then select **Word (2)** under the Apps section.
 
-    ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
+    ![](./Images/m3p3t1p7.png)
+
+1. On the Word homepage, click **Upload a file (1)**. In the Open dialog, choose the file **(2)** you downloaded in the previous step, then click **Open (3)**.
+
+    ![](./Images/m3p3t1p8.png)
+
+    ![](./Images/m3p3t1p8(1).png)
+
+1. After the document opens, click the **Share (1)** drop-down and select **Copy Link (2)** to copy the shared URL for the next step.
+
+    ![](./Images/m3p3t1p9.png)
 
 ### Copilot in Word
 
 Now, we’ll draft an executive summary outlining legal risks and recommendations for Contoso’s leadership.
 
-1. Open a new instance of Word, either in your browser or desktop application.
+1. Open a new instance of Word. On the Word homepage, click on **+ Create blank document**.
 
-1. In the **"Describe what you'd like to write"** prompt box, type the following:
+    ![](./Images/m3p3t2p1.png)
+
+1. In the **What do you want Copilot to draft?** prompt box, paste the following text, add the link you copied in the previous task where indicated, and then press **Enter**.
 
     ```text
     Reference the following document [Link to exported Copilot Chat summary from the first task] and draft an executive summary outlining key legal risks, compliance requirements, and recommendations for Contoso’s AI Resume Screening Software.
     ```
+
+    ![](./Images/m3p3t2p2.png)
 
     > **NOTE:** Attach the document or paste the shared link directly into the prompt to ensure Copilot can access the relevant content.
 
@@ -83,25 +99,33 @@ Now, we’ll draft an executive summary outlining legal risks and recommendation
     Add a section on the potential business impact of these compliance requirements.
     ```
 
+    ![](./Images/m3p3t2p3.png)
+
 1. Other optional refinements:
 
     - Ask Copilot to reword sections for a more professional tone.
     - Request a shorter, more concise version if the summary is too long.
     - Expand with additional sections.
 
-1. After reviewing and finalizing the document, **Copy the generated Executive Summary** to your clipboard for use in the next demo.
+1. After reviewing and finalizing the document, copy the entire generated **Executive Summary** to your clipboard for use in the next task.
 
 ### Copilot in Outlook
 
 Lastly, we’ll draft an email to Contoso’s leadership summarizing our findings and next steps.
 
-1. Open Outlook (either in your browser or desktop application).
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Outlook (2)** under Apps section.
 
-1. Select **New Email**.
+    ![](./Images/m3p3t3p1.png)
 
-1. Select **Copilot** in the ribbon. From the drop-down menu, choose **Draft with Copilot**.
+1. On the Outlook homepage, select **New Email**.
 
-1. In the **"What do you want this email to say?"** prompt window, type:
+    ![](./Images/m3p3t3p2.png)
+
+1. Click the **Copilot (1)** icon in the Outlook ribbon, then select **Draft (2)** from the drop-down menu.
+
+    ![](./Images/m3p3t3p3.png)
+
+1. In the **What do you want this email to say?** prompt window, paste the following text and insert the Executive Summary you copied in the previous task where indicated, and then press **Enter**.
 
    ```text
     Draft an email to Contoso’s executive leadership summarizing our legal assessment of the AI Resume Screening Software under the EU AI Act. Use the following executive summary as a reference.
@@ -111,8 +135,12 @@ Lastly, we’ll draft an email to Contoso’s leadership summarizing our finding
     Conclude the email with a request for leadership’s input on the next steps, including a proposed compliance review meeting.
    ```
 
+    ![](./Images/m3p3t3p4.png)
+
     > **NOTE:** Paste the Executive Summary contents that you copied from the previous demo.
 
 1. Once the draft is generated, you can use the **Adjust** feature to modify the tone, length, or level of formality.
+
+    ![](./Images/m3p3t3p5.png)
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

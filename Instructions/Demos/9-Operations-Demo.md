@@ -120,7 +120,7 @@ Lastly, use Copilot in Outlook to draft an email to potential suppliers summariz
 
     ![](./Images/p6t3p1.png)
 
-1. On the outlook window, select **New Email**.
+1. On the Outlook homepage, select **New Email**.
 
     ![](./Images/p6t3p2.png)
 
