@@ -19,11 +19,15 @@ The specific files needed for this demo are:
 
 - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
 
+    ![](./Images/m4p2t1p1.png)
+
 ### Copilot in Excel  
 
 Use Copilot in Excel to analyze sales data, identify key trends, and calculate financial metrics.
 
-1. Launch Excel & Open the File  
+1. Click on the **Apps (1)** fromt he left navigative apne and then select **Excel (2)** under Apps section.
+
+    ![](./Images/p5t3p1.png) 
 
 1. Open **EV_Charger_Sales_Analysis_v1.xlsx** in Excel (either in your browser or desktop application).  
 

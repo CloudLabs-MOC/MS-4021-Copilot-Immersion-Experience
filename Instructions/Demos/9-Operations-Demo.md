@@ -93,16 +93,16 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
 
 1. Next, ask Copilot to extract vendor selection criteria:
 
-   ```text
-   Extract and summarize the key vendor selection criteria from this document, including weight percentages and evaluation factors.
-   ```
+    ```text
+    Extract and summarize the key vendor selection criteria from this document, including weight percentages and evaluation factors.
+    ```
 
 1. Next, instruct Copilot to generate an RFP using the project guidelines and include the file **`Contoso_RFP_Template.docx`**, similar to how we added **Project_Guidelines_Contoso.docx** earlier in Step 3.
 
 
-   ```text
-   Using the project requirements outlined above, draft an RFP using the following template:
-   ```
+    ```text
+    Using the project requirements outlined above, draft an RFP using the following template:
+    ```
 
     ![](./Images/p6t2p6.png)
 

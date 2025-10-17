@@ -112,19 +112,6 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     ```
 
     ![](./Images/p5t2p4.png)
-<!---
-1. Optionally, for the last prompt, you can ask Copilot to generate a new video for the campaign:
-
-    in Copilot chat, on the right hand side, select the **Visual Creator Agent**:
-
-    ![video creator agent.](../Demos/Media/video-creator.png)
-
-    Then, input the following prompt:
-
-    ```text
-    Create a captivating social media video for Mystic Spice Chai Tea that highlights its unique flavor and vibrant appeal. The video should feature eye-catching visuals, with colors, and themes that resonate with young professionals and tea enthusiasts.
-    ```
---->
 
 ### Copilot in Excel
 

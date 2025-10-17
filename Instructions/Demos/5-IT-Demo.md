@@ -66,8 +66,8 @@ Let’s start by asking Copilot to create a project implementation plan.
 1. On the OneDrive window, click on **+ Create or upload (1)** and select **Files upload (2)**. Then in Open dialog, select the following files **(3)** and then click on **Open (4)**.
 
     - `Contoso_CipherGuard_Product_Specification.docx`
-    - Select the file you downloaded from Copilot.
-
+    - `Network_Security_Deployment_Plan_Contoso.docx`
+    
         ![](./Images/m3p2t1p7.png)
 
         ![](./Images/m3p2t1p7(1).png)
