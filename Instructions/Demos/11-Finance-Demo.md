@@ -107,13 +107,13 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
 1. Calculate Average Revenue Per Customer. Enter the following prompt:  
 
     ```text
-    Calculate the average revenue per customer. Insert a row in the sheet.
+    Calculate the average revenue per customer.
     ```  
 
     - Copilot calculates the average and adds the result.  
-    - Select **Insert Row** to store the average revenue value.
+    - Select **Insert cell** to store the average revenue value.
 
-        ![](./Images/m4p2t1p10.png)   
+        ![](./Images/m4p2t1p10(1).png)   
   
 1. Find the Industry Using the Most Power. Enter the following prompt in the Copilot pane:  
 
