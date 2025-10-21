@@ -73,10 +73,13 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
     Create a summary table for total sales in 2024. The table should include Product ID, total units sold, and total revenue.
     ``` 
 
-    ![](./Images/m4p2t1p7.png)   
+     
 
     - Copilot generates a summary table.  
-    - Select **Insert a new sheet** to store the table separately.  
+    - Select **Insert a new sheet** to store the table separately.
+
+        ![](./Images/m4p2t1p7.png)  
+
     - Ensure the table includes **only 2024 data**.
 
         ![](./Images/m4p2t1p7(1).png)

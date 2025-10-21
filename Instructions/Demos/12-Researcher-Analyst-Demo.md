@@ -1,11 +1,7 @@
----
-demo:
-    title: 'Researcher and Analyst Demo'
----
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Researcher and Analyst Demo
+### Estimated Duration: Minutes
+
+## Overview
 
 This demo highlights how to use **Researcher** and **Analyst**, two expert agents built into the Copilot app.  
 
@@ -16,17 +12,6 @@ This demo highlights how to use **Researcher** and **Analyst**, two expert agent
 
 In order to complete these demos, you will need to download the [Researcher and Analyst Demo - Content Pack](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW), which contains all the necessary files and resources.  
 
-> **TIP:** Before delivering the demo, you can create a SharePoint site in your demo environment to store all the files for easy access. Alternatively, you can store the files locally and reference them directly in your prompts using **/**.  
-
-To access these agents:  
-
-- Open the **Copilot app** from [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Select **Researcher** or **Analyst** from the navigation pane.  
-
-> **Note:** You’ll need to point Researcher and Analyst to internal files (SharePoint/OneDrive) for grounded insights.
-
----
-
 ## Talking Points
 
 - **Researcher** acts like a highly paid consultant: it can build structured, well-cited deliverables by blending internal files, competitor intelligence, and web sources.  
@@ -34,13 +19,14 @@ To access these agents:
 - Both agents explain their reasoning transparently so you can validate results.  
 - Together, they accelerate strategic work—marketing plans, customer segmentation, financial projections—so you can move faster with confidence.  
 
----
+## Objectives
 
-## Demo Steps
+- Task 1: Using Researcher build a Marketing Plan
+- Task 2:
+- Task 3:
 
-### Researcher: Build a Marketing Plan
+## Task 1: Using Researcher build a Marketing Plan
 
-> **IMPORTANT:** Steps 1–4 should be completed at the beginning of the training (as indicated by slide 5) to give Researcher enough time to complete the first prompt.
 
 1. From the left navigation menu, click on **Apps (1)** and then select **OneDrive (2)**.
 
@@ -164,4 +150,7 @@ You can run these additional prompts for variety. Each follows the same pattern:
 
 Together, Researcher and Analyst shorten the path from **question to insight**—turning weeks of effort into minutes.  
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+## Summary
+
+
+### Congratulations! You've successfully completed the Hands-on lab.
