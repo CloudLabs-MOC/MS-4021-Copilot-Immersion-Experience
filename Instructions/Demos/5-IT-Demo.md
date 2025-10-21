@@ -1,35 +1,28 @@
----
-demo:
-    title: 'IT Demo'
----
+# IT
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+### Estimated Duration: Minutes
 
-# IT Demo
+## Overview
 
-**Scenario:**  
+In this lab, you’ll use Microsoft Copilot across Copilot Chat, Word, and PowerPoint to plan and document the deployment of a new network security product in a corporate environment. You’ll learn how to create detailed project plans, expand strategies into actionable steps, and generate professional presentations. The lab demonstrates how natural language prompts can streamline project planning, documentation, and communication, helping IT managers execute deployments efficiently.
 
-As an IT Infrastructure Manager, you're planning to install a new network security product into your corporate network.
+## Objectives
 
-## Demo Setup
+- Task 1: Copilot Chat
+- Task 2: Copilot in Word
+- Task 3: Copilot in PowerPoint
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+## Task 1: Copilot Chat
 
-The specific files needed for this demo are:
+In this lab, you'll use Copilot Chat to create a detailed project implementation plan for deploying a new network security product, including milestones, resources, risks, and timelines.
 
-- [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
+1. Download the following files by clicking on the **Download** button:
 
-    ![](./Images/m3p2t1p1(1).png)
+    - [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
 
-    > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
+        ![](./Images/m3p2t1p1(1).png)
 
-## Demos
-
-### Copilot Chat
-
-Let’s start by asking Copilot to create a project implementation plan.
-
-1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
+1. Open a new tab in the browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
     ![](./Images/m3p2t1p1.png)
 
@@ -72,9 +65,9 @@ Let’s start by asking Copilot to create a project implementation plan.
 
         ![](./Images/m3p2t1p7(1).png)
 
-### Copilot in Word
+## Task 2: Copilot in Word
 
-We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
+In this lab, you'll use Copilot in Word to expand and refine the project plan into a comprehensive, structured document aligned with product specifications.
 
 1. In the left navigation pane of the M365 Copilot homepage, click **Apps (1)**, then select **Word (2)** under the Apps section.
 
@@ -104,9 +97,9 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 
     ![](./Images/m3p2t2p6.png)
 
-### Copilot in PowerPoint
+## Task 3: Copilot in PowerPoint
 
-We'll now use Copilot to generate a PowerPoint presentation based on the new proposal to implement the Contoso CipherGuard product.
+In this lab, you'll use Copilot in PowerPoint to automatically generate a professional presentation from the project plan, complete with slides, speaker notes, and visual enhancements for stakeholder communication.
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **PowerPoint (2)** under Apps section.
 
@@ -140,4 +133,9 @@ We'll now use Copilot to generate a PowerPoint presentation based on the new pro
 
     > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+## Summary
+
+In this lab, you used Copilot Chat to create a detailed project implementation plan for deploying the Contoso CipherGuard network security product, including milestones, resource allocation, risks, and timelines. You then leveraged Copilot in Word to draft a comprehensive project plan aligned with the product specifications and structured templates. Finally, you used Copilot in PowerPoint to generate a professional presentation from the project plan, complete with slides, speaker notes, and layouts for executive communication. The lab highlights how Copilot can accelerate IT project planning, documentation, and stakeholder reporting by combining strategy, structure, and clear presentation.
+
+### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
+

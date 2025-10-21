@@ -1,12 +1,10 @@
-# Researcher and Analyst Demo
+# Researcher and Analyst
+
 ### Estimated Duration: Minutes
 
 ## Overview
 
-This demo highlights how to use **Researcher** and **Analyst**, two expert agents built into the Copilot app.  
-
-- **Researcher** helps you tackle multi-step research tasks, combining web data with your company’s files and knowledge.  
-- **Analyst** thinks like a skilled data scientist, able to perform advanced data analysis and Python execution—even if you don’t know how to code.  
+In this lab, you’ll explore how to use **Researcher** and **Analyst**, two expert agents built into the Microsoft Copilot app. You’ll learn how **Researcher** combines internal and web-based knowledge to build structured, well-supported marketing plans, and how **Analyst** applies data science techniques to uncover insights, perform modeling, and create visualizations. By the end, you’ll understand how both agents work together to accelerate decision-making, strategy development, and data analysis.
 
 ## Demo Setup
 
@@ -22,11 +20,11 @@ In order to complete these demos, you will need to download the [Researcher and 
 ## Objectives
 
 - Task 1: Using Researcher build a Marketing Plan
-- Task 2:
-- Task 3:
+- Task 2: Using Analyst for Customer Segmentation & Financial Modeling
 
-## Task 1: Using Researcher build a Marketing Plan
+## Task 1: Using Researcher to build a Marketing Plan
 
+In this task, you’ll use the **Researcher** agent to create a comprehensive marketing plan for the SprintCycle EV charger launch. You’ll upload internal files, integrate competitor and campaign insights, and let Researcher generate a structured, well-cited plan that includes digital channel and content strategy recommendations.
 
 1. From the left navigation menu, click on **Apps (1)** and then select **OneDrive (2)**.
 
@@ -79,9 +77,9 @@ Researcher will:
 
 > **Note:** Researcher shows its reasoning path (“chain of thought”), and can call other agents when needed.  
 
-### Analyst: Customer Segmentation & Financial Modeling
+## Task 2: Using Analyst for Customer Segmentation & Financial Modeling
 
-**Note:** This demo is not performed for the Executive version of the content, instead move onto the **Copilot studio** Demo.
+In this task, you’ll use the **Analyst** agent to analyze market data, identify high-value customer segments, and visualize how targeting them can maximize market opportunities. You’ll also explore additional prompts to perform financial projections, sales performance reviews, and campaign analysis using uploaded datasets.
 
 1. Open **Analyst** from the navigation pane under **Agents** section.
 
@@ -143,14 +141,7 @@ You can run these additional prompts for variety. Each follows the same pattern:
 
     File: **`BoulderEV ebike Internal Market Forecast.xlsx`**  
 
-## Key Takeaway
-
-- **Researcher**: accelerates strategy and planning with high-quality research.  
-- **Analyst**: delivers data-driven insights with advanced analysis and visualizations.  
-
-Together, Researcher and Analyst shorten the path from **question to insight**—turning weeks of effort into minutes.  
-
 ## Summary
-
+In this lab, you used **Researcher** to create a detailed marketing plan for the SprintCycle EV charger by combining company documents and online insights. You then used **Analyst** to perform customer segmentation, financial modeling, and data visualization to identify key market opportunities. Together, these exercises demonstrated how Copilot’s built-in agents help you move from research to actionable insights quickly and confidently.
 
 ### Congratulations! You've successfully completed the Hands-on lab.

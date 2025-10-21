@@ -1,25 +1,22 @@
----
-demo:
-    title: 'Legal Demo'
----
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Legal Demo
+
+### Eastimated Duration: Minutes
+
+## Overview
 
 **Scenario:**  
 
-You’re a legal advisor at Contoso, responsible for assessing whether the company’s AI Resume Screening Software complies with the EU AI Act. Your goal is to research legal risks, draft an executive summary, and communicate recommendations to leadership.
+In this lab, you’ll use Microsoft Copilot across Copilot Chat, Word, and Outlook to assess legal compliance of Contoso’s AI Resume Screening Software under the EU AI Act. You’ll learn how to research regulations, identify legal risks, summarize compliance requirements, and communicate findings effectively. The lab demonstrates how natural language prompts can streamline legal research, reporting, and executive communication, helping legal advisors provide actionable recommendations efficiently.
 
-## Demo Setup
+## Objectives
 
-There are no sample documents required for this demo.
+- Task 1: Copilot Chat
+- Task 2: Copilot in Word
+- Task 3: Copilot in Outlook
 
-## Demos
+## Task 1: Copilot Chat
 
-### Copilot Chat
-
-Let’s start by researching the EU Artificial Intelligence Act and its potential impact on Contoso’s AI hiring tool.
+In this task, you’ll use Copilot Chat to research the **EU Artificial Intelligence Act** and evaluate its implications for Contoso’s AI Resume Screening Software. You’ll identify key compliance requirements, legal risks, and determine whether the system qualifies as a high-risk AI application. Finally, you’ll export your findings into a structured summary document.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
@@ -75,9 +72,9 @@ Let’s start by researching the EU Artificial Intelligence Act and its potentia
 
     ![](./Images/m3p3t1p9.png)
 
-### Copilot in Word
+## Task 2: Copilot in Word
 
-Now, we’ll draft an executive summary outlining legal risks and recommendations for Contoso’s leadership.
+In this task, you’ll use Copilot in Word to create an **executive summary** outlining legal risks, compliance obligations, and recommendations for Contoso’s leadership. You’ll refine the draft for clarity, tone, and structure, and include a section on the potential business impact of compliance requirements.
 
 1. Open a new instance of Word. On the Word homepage, click on **+ Create blank document**.
 
@@ -109,9 +106,9 @@ Now, we’ll draft an executive summary outlining legal risks and recommendation
 
 1. After reviewing and finalizing the document, copy the entire generated **Executive Summary** to your clipboard for use in the next task.
 
-### Copilot in Outlook
+## Task 3: Copilot in Outlook
 
-Lastly, we’ll draft an email to Contoso’s leadership summarizing our findings and next steps.
+In this task, you’ll use Copilot in Outlook to draft a **professional email** to Contoso’s executive leadership summarizing the legal assessment and proposed next steps. You’ll include your executive summary, ensure the tone is professional and concise, and request input on scheduling a compliance review meeting.
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **Outlook (2)** under Apps section.
 
@@ -143,4 +140,8 @@ Lastly, we’ll draft an email to Contoso’s leadership summarizing our finding
 
     ![](./Images/m3p3t3p5.png)
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+## Summary
+
+In this lab, you researched the EU AI Act using Copilot Chat, identifying key provisions, high-risk AI obligations, and potential exemptions relevant to Contoso’s hiring software. You then used Copilot in Word to draft a professional executive summary outlining legal risks, compliance requirements, and recommendations. Finally, you leveraged Copilot in Outlook to create a polished email summarizing your assessment and next steps for leadership. The lab highlights how Copilot can accelerate legal analysis, documentation, and communication by combining regulatory research with clear, actionable reporting.
+
+### Congratulations! You've successfully completed the Hands-on lab.
