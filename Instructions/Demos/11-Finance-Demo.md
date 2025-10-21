@@ -52,7 +52,9 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
     - Copilot sorts the table and updates the dataset.  
     - Select **"Apply"** after sorting.
 
-        ![](./Images/m4p2t1p5(1).png)  
+        ![](./Images/m4p2t1p5(1).png)
+
+        >**Note:** If Copilot doesn't return the expected result, please refresh the tab and try again.
 
 1. To Insert a ‘Total Revenue’ Column, use the following prompt in the Copilot pane:  
 
@@ -79,7 +81,9 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
 
         ![](./Images/m4p2t1p7(1).png)
 
-    - Navigate back to the **"Sales by Product"** tab or select **"Go back to data"** under Copilot’s last response.
+    - Navigate back to the **"Sales by Product"** tab.
+
+        >**Note:** If Copilot doesn't return the expected result, please refresh the tab and try again.
 
 1. Identify the Best-Selling Product. Enter the following prompt in the Copilot pane:  
 
@@ -89,7 +93,7 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
 
     ![](./Images/m4p2t1p8.png)   
   
-    - Copilot analyzes the dataset and provides the top-selling product.
+    Copilot analyzes the dataset and provides the top-selling product.
 
 1. Sort Customers by Revenue:
 
@@ -128,6 +132,8 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
 1. Click on the **Share (1)** drop-down and select **Copy link (2)**.
 
     ![](./Images/m4p2t1p12.png)
+
+1. On the **Link created** pop-up, click on **Copy** to copy the URL.
 
     ![](./Images/m4p2t1p12(1).png)
 
