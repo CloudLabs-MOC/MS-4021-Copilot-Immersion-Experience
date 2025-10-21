@@ -179,7 +179,7 @@ In this task, you’ll use Copilot Chat to compare your company’s financial pe
 
     ![](./Images/m4p2t2p6.png)
 
-1. On the Word homepage, click on **Upload (1)**, and from the Open dialogue, select the **`EV_Charger_Sales_Analysis_v1.xlsx` (2)** and click on **Open (3)**.
+1. On the Word homepage, click on **Upload a file (1)**, and from the Open dialogue, select the **`EV_Charger_Sales_Analysis_v1.xlsx` (2)** and click on **Open (3)**.
 
     ![](./Images/m4p2t2p7.png)
 

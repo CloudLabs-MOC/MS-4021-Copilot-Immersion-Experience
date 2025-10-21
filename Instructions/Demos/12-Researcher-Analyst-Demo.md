@@ -51,10 +51,10 @@ In this task, you’ll use the **Researcher** agent to create a comprehensive ma
     Make sure to include recommendations on the right digital channels and content strategy. 
     Include insights from competitors and our past GTM campaigns.
     ```
-1. Click on **+ (2)** icon to add content and select **Attach cloud files (3)**. Click on My files from the left menu, and select the following files:
+1. Click on **+ (2)** icon to add content and select **Attach cloud files (3)**. Click on **My files (4)** from the left menu, and select the following files:
 
-    - `SprintCycle_Charger_Product_Launch.docx` and `Contoso-PedalPerks GTM Plan.docx` (Optional) **(4)**.
-    - Click **Select (5)**.
+    - `SprintCycle_Charger_Product_Launch.docx` and `Contoso-PedalPerks GTM Plan.docx` (Optional) **(5)**.
+    - Click **Select (6)**.
 
         ![](./Images/m4p3t1p3.png)
 
@@ -69,13 +69,13 @@ In this task, you’ll use the **Researcher** agent to create a comprehensive ma
 
     >**Note:** It will take few minutes to generate proper responce.
 
-Researcher will:  
+1. Researcher will:  
 
-- Combine insights from both internal files and the web.  
-- Structure a marketing plan with recommendations on channels and content strategy.  
-- Cite sources so you can validate its work.  
+    - Combine insights from both internal files and the web.  
+    - Structure a marketing plan with recommendations on channels and content strategy.  
+    - Cite sources so you can validate its work.  
 
-> **Note:** Researcher shows its reasoning path (“chain of thought”), and can call other agents when needed.  
+        > **Note:** Researcher shows its reasoning path (“chain of thought”), and can call other agents when needed.  
 
 ## Task 2: Using Analyst for Customer Segmentation & Financial Modeling
 
@@ -103,11 +103,11 @@ In this task, you’ll use the **Analyst** agent to analyze market data, identif
 
     ![](./Images/m4p3t2p2.png)
 
-Analyst will:  
+1. Analyst will:  
 
-- Analyze the dataset.  
-- Identify high-value customer segments.  
-- Provide visualizations to back up recommendations.  
+    - Analyze the dataset.  
+    - Identify high-value customer segments.  
+    - Provide visualizations to back up recommendations.  
 
 ### Additional Analyst Scenarios
 
