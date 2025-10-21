@@ -1,37 +1,30 @@
----
-demo:
-    title: 'Operations Demo'
----
+# Operations
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+### Estimated Duration: Minutes
 
-# Operations Demo
+## Overview
 
-## Scenario
+In this lab, you’re acting as an Operations Manager at Contoso, responsible for vendor procurement and project execution. Your goal is to review past RFPs, extract key selection criteria, and draft a new Request for Proposal (RFP) for an upcoming initiative. Using Microsoft 365 Copilot, you will analyze existing documents in Word, summarize project requirements and vendor criteria in Copilot Chat, and draft a professional email in Outlook to share the RFP with potential suppliers.
 
-You’re an Operations Manager at Contoso, responsible for vendor procurement and project execution. Your goal is to review past RFPs, extract key selection criteria, and draft a new RFP for an upcoming initiative.
+## Objectives
 
-## Demo Setup
+- Task 1: Copilot in Word
+- Task 2: Copilot Chat
+- Task 3: Copilot in Outlook
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+## Task 1: Copilot in Word
 
-The specific files needed for this demo are:
+In this task, you'll start by asking Copilot in Word some questions about a Request for Proposal (RFP) document.
 
-- [Contoso_Completed_RFP.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Completed_RFP.docx)
+1. 1. Download the following files by clicking on the **Download** button:
 
-- [Project_Guidelines_Contoso.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Project_Guidelines_Contoso.docx)
+    - [Contoso_Completed_RFP.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Completed_RFP.docx)
 
-- [Contoso_RFP_Template.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_RFP_Template.docx)
+    - [Project_Guidelines_Contoso.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Project_Guidelines_Contoso.docx)
 
-    ![](./Images/p6t1p1.png)
+    - [Contoso_RFP_Template.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_RFP_Template.docx)
 
-    > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
-
-## Demos
-
-### Copilot in Word
-
-Let’s start by asking Copilot in Word some questions about a Request for Proposal (RFP) document.
+        ![](./Images/p6t1p1.png)
 
 1. Click on the **Apps (1)** from the left navigative pane and then select **Word (2)** under Apps section.
 
@@ -67,9 +60,9 @@ Let’s start by asking Copilot in Word some questions about a Request for Propo
 
     > **NOTE:** There is no need to copy the generated content, as we will be using a pre-created template document in the following demo. However, you can showcase how to copy Copilot's response or insert it into the document if relevant to your audience.
 
-### Copilot Chat
+## Task 2: Copilot Chat
 
-Now that we’ve summarized the RFP document and created an RFP template, let’s use Copilot Chat to summarize project requirements for a new RFP.
+In this task, you'll use Copilot Chat to summarize project requirements for a new RFP.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).  
 
@@ -111,9 +104,9 @@ Now that we’ve summarized the RFP document and created an RFP template, let’
 
 1. Optionally, ask Copilot to export the generated RFP to a Word document.
 
-### Copilot in Outlook
+## Task 3: Copilot in Outlook
 
-Lastly, use Copilot in Outlook to draft an email to potential suppliers summarizing the RFP document.
+In this task, you'll use Copilot in Outlook to draft an email to potential suppliers summarizing the RFP document.
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **Outlook (2)** under Apps section.
 
@@ -143,4 +136,12 @@ Lastly, use Copilot in Outlook to draft an email to potential suppliers summariz
 
     ![](./Images/p6t3p4.png)
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+## Summary
+
+In this lab, you’ve:
+
+- Used Copilot in Word to review a completed RFP, extract required components, and explore how Copilot can assist in creating RFP templates.
+- Used Copilot Chat to summarize project guidelines, identify vendor selection criteria, and generate a new RFP using a provided template.
+- Used Copilot in Outlook to draft a clear and professional email summarizing the RFP for potential suppliers, ready for distribution.
+
+### Congratulations! You've successfully completed the Hands-on lab.

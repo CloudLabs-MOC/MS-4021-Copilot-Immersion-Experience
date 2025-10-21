@@ -1,41 +1,34 @@
----
-demo:
-    title: 'HR Demo'
----
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # HR Demo
 
-**Scenario:**  
+### Estimated Duration: Minutes
 
-Streamline the hiring process for a team of UX Designers by creating a tailored job description, shortlisting candidates based on their resumes, and drafting a hiring strategy to align the team
+## Overview
 
-## Demo Setup
+In this lab, you’re managing the hiring process for a Senior Animation Designer at the Graphic Design Institute. Your goal is to create a compelling job description, evaluate candidate resumes, and communicate your recommendations to the hiring team. Using Microsoft 365 Copilot, you will draft the job description in Word, analyze resumes using Copilot Chat, and craft a professional email in Outlook to share your hiring insights and next steps.
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+## Objectives
 
-The specific files needed for this demo are:
+- Task 1: Copilot in Word
+- Task 2: Copilot Chat
+- Task 3: Copilot in Outlook
 
-- [Design_Team_Responsibilities.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Graphic_Design_Institute_Design_Team_Responsibilities.docx)
+## Task 1: Copilot in Word
 
-- [Resume_Patti_Fernandez.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Patti_Fernandez.docx)
+In this task, you’ll use Copilot in Word to create a detailed and tailored job description based on role responsibilities.
 
-- [Resume_Nestor_Wilke.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Nestor_Wilke.docx)
+1. Download the following files by clicking on the **Download** button:
 
-- [Resume_Holly_Dickson.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Holly_Dickson.docx)
+    - [Design_Team_Responsibilities.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Graphic_Design_Institute_Design_Team_Responsibilities.docx)
 
-- [Resume_Alex_Wilber.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Alex_Wilber.docx)
+    - [Resume_Patti_Fernandez.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Patti_Fernandez.docx)
 
-    ![](./Images/p3t1p1.png)
+    - [Resume_Nestor_Wilke.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Nestor_Wilke.docx)
 
-    > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
+    - [Resume_Holly_Dickson.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Holly_Dickson.docx)
 
-## Demos
+    - [Resume_Alex_Wilber.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Resume_Alex_Wilber.docx)
 
-### Copilot in Word
-
-Let’s start by asking Copilot in Word to generate a job description.
+        ![](./Images/p3t1p1.png)
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **Word (2)** under Apps section.
 
@@ -75,9 +68,9 @@ Let’s start by asking Copilot in Word to generate a job description.
 
     ![](./Images/p3t1p6(1).png)
 
-### Copilot Chat
+## Task 2: Copilot Chat
 
-Next, we'll use Copilot Chat to compare resumes we've received to the job description and identify the best candidates.
+In this task, you’ll use Copilot Chat to analyze candidate resumes, compare them against the job requirements, and rank the candidates by suitability.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
@@ -111,9 +104,9 @@ Next, we'll use Copilot Chat to compare resumes we've received to the job descri
 
 1. Optionally, you can ask Copilot Chat to export its response to a Word document to highlight this feature.
 
-### Copilot in Outlook
+## Task 3: Copilot in Outlook
 
-Lastly, use Copilot in Outlook to draft an email to the hiring team regarding the top candidates.
+In this task, you’ll use Copilot in Outlook to draft a professional email to the hiring team summarizing the top candidates and recommending next steps.
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **Outlook (2)** under Apps section.
 
@@ -140,4 +133,12 @@ Lastly, use Copilot in Outlook to draft an email to the hiring team regarding th
 
     ![](./Images/p3t3p4.png)
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+## Summary
+
+In the lab, you’ve:
+
+- Used Copilot in Word to generate a detailed job description based on the design team’s responsibilities.
+- Used Copilot Chat to compare four candidate resumes against the job description and rank them by qualification.
+- Used Copilot in Outlook to draft an email recommending interviews for the top candidates—Nestor Wilke and Patti Fernandez—and requesting feedback from the hiring team.
+
+### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.

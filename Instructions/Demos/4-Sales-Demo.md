@@ -1,29 +1,22 @@
----
-demo:
-    title: 'Sales Demo'
----
+# Sales
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+### Estimated Duration: Minutes
 
-# Sales Demo
+## Overview
 
-**Scenario:**  
+In this lab, you’re preparing a regional sales strategy for EV chargers by analyzing performance data and market trends. Your goal is to understand how your company’s sales compare to national EV adoption patterns, identify growth opportunities, and communicate your strategy effectively. Using Microsoft 365 Copilot, you will research key metrics, generate actionable recommendations, and create a professional proposal and presentation to support your sales initiatives.
 
-You're in sales for an EV charging company and are developing a strategic plan for the upcoming year.
+## Objectives
 
-## Demo Setup
+- Task 1: Copilot Chat
+- Task 2: Copilot in Word
+- Task 3: Copilot in PowerPoint
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+## Task 1: Copilot Chat
 
-The specific files needed for this demo are:
+1. Download the following file by clicking on the **Download** button:
 
-- [Charger_sales_report_2022-2024.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
-
-    > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
-
-## Demos
-
-### Copilot Chat
+    - [Charger_sales_report_2022-2024.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
@@ -39,9 +32,7 @@ The specific files needed for this demo are:
 
     ![](./Images/p4t1p3.png)
 
-1. Now let’s compare national trends to your company’s sales performance. You’ll upload the provided dataset and ask Copilot to visualize the data:
-
-    In the prompt field, type:
+1. Now let’s compare national trends to your company’s sales performance. You’ll upload the provided dataset and ask Copilot to visualize the data. In the prompt field, type:
 
     ```text
     I need to know the quarterly trends for each of our sales regions. Create a quarterly revenue line graph for the past 2 years based on:
@@ -69,7 +60,7 @@ The specific files needed for this demo are:
 
     ![](./Images/p4t1p6.png)
 
-### Copilot in Word
+## Task 2: Copilot in Word
 
 We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
 
@@ -103,7 +94,7 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 
     > **Trainer Tip:** Use this step to demonstrate how Copilot builds on prior outputs, refining ideas into a cohesive proposal.
 
-### Copilot in PowerPoint
+## Task 3: Copilot in PowerPoint
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **PowerPoint (2)** under Apps section.
 
@@ -137,5 +128,13 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 
     ![](./Images/p4t3p7.png)
 
+## Summary
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+In the lab, you’ve:
+
+- Used Copilot Chat to research EV car-to-charger ratios across U.S. regions and visualize your company’s quarterly sales trends using an uploaded Excel dataset.
+- Generated strategic recommendations to boost EV charger sales in the Mountain and Midwest regions, and exported them to a Word document.
+- Used Copilot in Word to expand those recommendations into a detailed, actionable proposal including timelines, resources, and stakeholders.
+- Used Copilot in PowerPoint to transform the proposal into a polished presentation, complete with speaker notes and visuals, ready to share with your sales team or leadership.
+
+### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.

@@ -1,22 +1,19 @@
----
-demo:
-    title: 'Communications Demo'
----
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Communications Demo
 
-**Scenario:**  
-You're preparing for an interview with a reporter from a prominent news outlet. Your goal is to gather insights about the reporter, tailor your messaging to their audience, and develop well-crafted answers to potential interview questions. Copilot assists you throughout this process.
+### Estimated Duration: Minutes
 
-## Demo Setup
+## Overview
 
-There are no sample documents required for this demo.
+In this lab, you’re preparing for an interview with a reporter from a prominent news outlet. Your goal is to gather insights about the reporter, understand the outlet’s audience, anticipate potential questions, and craft well-structured, audience-focused responses. Using Microsoft 365 Copilot, you will research, draft, and refine your answers, creating a professional FAQ document that helps you communicate effectively during the interview.
 
-## Demos
+## Objectives 
 
-### Copilot Chat
+- Task 1: Copilot Chat
+- Task 2: Copilot in Word
+
+## Task 1: Copilot Chat
+
+In this lab, you'll use Copilot Chat to research the reporter, understand the news outlet’s audience, and anticipate potential interview questions.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/) `https://m365copilot.com/`.
 
@@ -60,9 +57,9 @@ There are no sample documents required for this demo.
 
     > **NOTE:** This Word document will be referenced in the next demo.
 
-### Copilot in Word
+## Task 2: Copilot in Word
 
-The insights and drafts generated in Copilot Chat will now be refined and structured into an FAQ in Word.
+In this lab, you'll use Copilot in Word to draft, refine, and structure answers into an FAQ document suitable for a technical audience.
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **Word (2)** under Apps section.
 
@@ -96,4 +93,16 @@ The insights and drafts generated in Copilot Chat will now be refined and struct
 
 1. Reflect on the FAQ. Are there any gaps in information? Add additional questions as needed to ensure it provides comprehensive value to the audience.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+## Summary 
+
+In this lab, you successfully used Copilot to:
+
+- Research the reporter’s background and approach to the topic.
+
+- Analyze the audience’s demographics and interests.
+
+- Generate potential interview questions and draft concise, informative answers.
+
+- Refine and structure these answers into an FAQ document suitable for publication or reference.
+
+### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.

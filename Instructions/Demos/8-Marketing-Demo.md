@@ -1,39 +1,32 @@
----
-demo:
-    title: 'Marketing Demo'
----
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Marketing Demo
 
-**Scenario:**  
+### Estimated Duration: Minutes
 
-You’re in Marketing for a beverage company, your goal is to analyze market trends, create a marketing analysis, and develop a new social media campaign.
+## Overview
 
-## Demo Setup
+In this lab, you’re developing a marketing strategy for Mystic Spice Premium Chai Tea tailored to the Latin American market. Your goal is to analyze market trends, craft creative campaign ideas, and evaluate their effectiveness. Using Microsoft 365 Copilot, you will generate a market analysis report in Word, refine campaign strategies through Copilot Chat, and analyze engagement data in Excel to support data-driven marketing decisions.
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+## Objectives
 
-The specific files needed for this demo are:
+- Task 1: Copilot in Word
+- Task 2: Copilot Chat
+- Task 3: Copilot in Excel
 
-- [Promotion_Plan_for_Chai_Tea_in_Latin_America.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx)
+## Task 1: Copilot in Word
 
-- [Mystic_Spice_Premium_Chai_Tea_product_description.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Mystic_Spice_Premium_Chai_Tea_product_description.docx)
+In this task, you'll use Copilot in Word to create a comprehensive market analysis report for Mystic Spice Premium Chai Tea, incorporating product details, market trends, and promotional strategies for the Latin American market. You'll also brainstorm creative social media campaign ideas with tailored messaging and taglines for the target audience.
 
-- [Contoso_Chai_Tea_market_trends.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Chai_Tea_market_trends.docx)
+1. Download the following files by clicking on the **Download** button:
 
-- [Contoso_Chai_Tea_social_marketing_trends.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Chai_Tea_social_marketing_trends.xlsx)
+    - [Promotion_Plan_for_Chai_Tea_in_Latin_America.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx)
 
-    ![](./Images/p5t1p1.png)
+    - [Mystic_Spice_Premium_Chai_Tea_product_description.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Mystic_Spice_Premium_Chai_Tea_product_description.docx)
 
-    > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
+    - [Contoso_Chai_Tea_market_trends.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Chai_Tea_market_trends.docx)
 
-## Demos
+    - [Contoso_Chai_Tea_social_marketing_trends.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Chai_Tea_social_marketing_trends.xlsx)
 
-### Copilot in Word
-
-Use Copilot in Word to draft a detailed market analysis report and brainstorm creative marketing campaign ideas tailored to the Latin American market.
+        ![](./Images/p5t1p1.png)
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **OneDrive (2)** under Apps section.
 
@@ -81,9 +74,9 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
 
     ![](./Images/p5t1p5.png)
 
-### Copilot Chat
+## Task 2: Copilot Chat
 
-Use Copilot Chat to evaluate the effectiveness of proposed social media campaigns and refine strategies for cultural relevance in the LATAM market.
+In this task, you'll use Copilot Chat to evaluate the effectiveness of proposed social media campaigns and refine strategies for cultural relevance in the LATAM market.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
@@ -113,7 +106,9 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
     ![](./Images/p5t2p4.png)
 
-### Copilot in Excel
+## Task 3: Copilot in Excel
+
+In this task, you'll use Copilot in Excel to analyze social media engagement data, calculate average sales per campaign view, and identify correlations between engagement and sales. You'll also explore viewership trends from September to December to guide future marketing decisions.
 
 1. Ensure you have downloaded [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) and open the document in Excel (either on the web or desktop application).
 
@@ -153,4 +148,12 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     How many social media campaign views did we have from September to December?
     ```
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+## Summary
+
+In this lab, you’ve:
+
+- Used Copilot in Word to create a market analysis report and brainstorm culturally relevant social media campaigns for the LATAM region.
+- Used Copilot Chat to evaluate campaign effectiveness, refine messaging, and generate a compelling slogan aligned with regional preferences.
+- Used Copilot in Excel to analyze social media engagement data, calculate average sales per campaign view, and identify trends to guide future marketing efforts.
+
+### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
