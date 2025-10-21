@@ -33,7 +33,7 @@ The specific files needed for this demo are:
 
 Let’s start by asking Copilot in Word some questions about a Request for Proposal (RFP) document.
 
-1. Click on the **Apps (1)** fromt he left navigative apne and then select **Word (2)** under Apps section.
+1. Click on the **Apps (1)** from the left navigative pane and then select **Word (2)** under Apps section.
 
     ![](./Images/p4t2p1.png)
 

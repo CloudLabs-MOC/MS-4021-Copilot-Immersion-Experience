@@ -42,11 +42,24 @@ To access these agents:
 
 > **IMPORTANT:** Steps 1–4 should be completed at the beginning of the training (as indicated by slide 5) to give Researcher enough time to complete the first prompt.
 
-1. Open **Researcher** from the navigation pane.  
+1. From the left navigation menu, click on **Apps (1)** and then select **OneDrive (2)**.
 
-    ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
+    ![](./Images/m4p3t1p1(1).png)
 
-1. Enter the following prompt:
+1. Click on **+ Create or upload (1)** and then select **Files upload (2)**. On the Open dialogue, select the following files:
+
+    - `BoulderEV_Internal_Market_Forecast.xlsx`, `SprintCycle_Charger_Product_Launch.docx` and `Contoso-PedalPerks GTM Plan.docx` **(3)**
+    - Click **Open (4)**.
+
+        ![](./Images/m4p3t1p1(2).png)
+
+        ![](./Images/m4p3t1p1(3).png)
+
+1. From the left navigation menu, go to **Agents (1)** and then select **Researcher (2)**. 
+
+    ![](./Images/m4p3t1p1.png)
+
+1. Enter the following prompt **(1)**:
 
     ```text
     Create a marketing plan for our newest SprintCycle EV charger launch. 
@@ -54,13 +67,23 @@ To access these agents:
     Make sure to include recommendations on the right digital channels and content strategy. 
     Include insights from competitors and our past GTM campaigns.
     ```
+1. Click on **+ (2)** icon to add content and select **Attach cloud files (3)**. Click on My files from the left menu, and select the following files:
 
-1. Attach reference files using `/` (point to SharePoint/OneDrive):  
+    - `SprintCycle_Charger_Product_Launch.docx` and `Contoso-PedalPerks GTM Plan.docx` (Optional) **(4)**.
+    - Click **Select (5)**.
 
-   - **/SprintCycle Charger Product Launch.docx**  
-   - *(Optional)* **/Contoso - PedalPerks GTM Plan.docx**  
+        ![](./Images/m4p3t1p3.png)
 
-1. Select **Submit**.  
+        ![](./Images/m4p3t1p3(1).png)
+
+        ![](./Images/m4p3t1p3(2).png)
+
+
+1. When prompted by the Researcher to proceed, type `go ahead` and press **Enter**.
+
+    ![](./Images/m4p3t1p3(3).png)
+
+    >**Note:** It will take few minutes to generate proper responce.
 
 Researcher will:  
 
@@ -74,24 +97,27 @@ Researcher will:
 
 **Note:** This demo is not performed for the Executive version of the content, instead move onto the **Copilot studio** Demo.
 
-1. Open **Analyst** from the navigation pane.
+1. Open **Analyst** from the navigation pane under **Agents** section.
 
-    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/analyst.png)  
+    ![](./Images/m4p3t2p1(3).png)
+  
 
-1. Enter the following prompt:
+1. Enter the following prompt **(1)**:
 
     ```text
     Find the right customer segment and demographic to sell our new EV charger, 
     include a graph to show how this will maximize our market opportunity.
     ```
 
-1. Attach the file using **+**:  
+1. Click on **+ (2)** icon to attach content, then seelct **Attach cloud files (3)**. Then go to the My files (4) from the left menu and select the file `BoulderEV ebike Internal Market Forecast.xlsx` **(5)** and click on **Select (6)**. 
 
-   - **BoulderEV ebike Internal Market Forecast.xlsx**  
+    ![](./Images/m4p3t2p1.png)
 
-    ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-Attach-Files.png)  
+    ![](./Images/m4p3t2p1(1).png)
 
-1. Click **Submit**.  
+1. Once the prompt is submitted, the analyst will return a response similar to the one shown in the image below.
+
+    ![](./Images/m4p3t2p2.png)
 
 Analyst will:  
 
@@ -109,7 +135,9 @@ You can run these additional prompts for variety. Each follows the same pattern:
     Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
     ```  
 
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    File: **`BoulderEV ebike Internal Market Forecast.xlsx`**  
+
+    ![](./Images/m4p3t3p1.png)
 
 - **Sales Performance**  
 
@@ -118,7 +146,7 @@ You can run these additional prompts for variety. Each follows the same pattern:
     along with a visualization of the best-selling products.
     ```  
 
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    File: **`BoulderEV ebike Internal Market Forecast.xlsx`**  
 
 - **Campaign Performance**  
 
@@ -127,7 +155,7 @@ You can run these additional prompts for variety. Each follows the same pattern:
     and help me decide where to re-target our next campaign.
     ```  
 
-    File: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    File: **`BoulderEV ebike Internal Market Forecast.xlsx`**  
 
 ## Key Takeaway
 
