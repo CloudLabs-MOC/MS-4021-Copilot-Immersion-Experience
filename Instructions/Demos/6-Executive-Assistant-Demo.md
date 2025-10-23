@@ -7,33 +7,49 @@ demo:
 
 # Executive Assistant Demo
 
+### Estimated Duration: Minutes
+
+## Overview
+
 **Scenario:**
 
 You’ve been tasked with summarizing the latest earnings conference call transcript for your executive. This task includes extracting key insights, creating an executive summary, and preparing for a follow-up meeting.
 
-## Demo setup
+## Objectives
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+- Task 1: Copilot in Word
+- Task 2: Copilot Chat
+- Task 3: Copilot in Outlook
 
-The specific files needed for this demo are:
+## Task 1: Copilot in Word
 
-- [Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx)
+In this task, you'll start by reviewing the transcript from the most recent earnings call and summarizing the key points for your executive.
 
-> **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
+1. Download the following file by clicking on the **Download** button:
 
-## Demo Steps
+    - [Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx)
 
-### Copilot in Word
+        ![](./Images/m1p2t1p1(1).png)
 
-We'll start by reviewing the transcript from the most recent earnings call and summarizing the key points for your executive.
+1. Open a new tab in the browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
-1. Select and open the **Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx** file in Word (either in your browser or desktop application).
+    ![](./Images/m3p2t1p1.png)
 
-    > **NOTE:** You may want to quickly scroll through the document to show how large it is and that it’s not a simple task to summarize it.
+1. Click on the **Apps (1)** from the left navigation pane, and then select **Word (2)** under the Apps section.
 
-1. Select the Copilot icon from the Ribbon:
+    ![](./Images/m1p2t1p1.png)
 
-    ![Copilot icon in Word.](../Demos/Media/Copilot-in-word-ribbon.png)
+1. In the Word window, click **Upload a file (1)**. In the **Open** dialog box, select **`Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx` (2)** and click **Open (3)**.
+
+    
+    ![](./Images/m1p2t1p2.png)
+
+    
+    ![](./Images/m1p2t1p2(1).png)
+
+1. Under the **Home (1)** tab, select the **Copilot (2)** icon from the Ribbon.
+
+    ![](./Images/m1p2t1p3.png)
 
 1. The Copilot pane should open. Enter the following prompt where it says **+ What do you want Copilot to draft?**:
 
@@ -68,15 +84,15 @@ We'll start by reviewing the transcript from the most recent earnings call and s
 
     ![Copy results.](../Demos/Media/Copilot-in-word-copy-results.png)
 
-### Copilot Chat
+## Task 2: Copilot Chat
 
-The report provided by Word is a great starting point, but now we want to use Copilot Chat to help us create an executive summary.
+In this task, you'll use Copilot Chat, to help us create an executive summary.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
-1. Ensure **Web mode** is selected.
+1. Ensure **Web** mode is selected.
 
-    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+    ![](./Images/m1p2t2p2.png)
 
 1. Paste the response from Copilot in Word into Copilot Chat with the following prompt:
 
@@ -102,13 +118,19 @@ The report provided by Word is a great starting point, but now we want to use Co
     Based on the summarized executive summary, generate 5-7 concise and impactful talking points my manager can use in their next leadership call. Focus on key achievements, growth areas, and strategic priorities.
     ```
 
-### Copilot in Outlook
+## Task 3: Copilot in Outlook
 
-In this demo, we'll use Copilot in Outlook to set up a meeting with the executive to get them up to speed on everything that happened during the Second Quarter Earnings Conference Call.
+In this task, you'll use Copilot in Outlook to set up a meeting with the executive to get them up to speed on everything that happened during the Second Quarter Earnings Conference Call.
 
 1. Open a browser and navigate to [outlook.office.com](https://outlook.office.com.com/).
 
-1. In the Outlook ribbon, select the Copilot Icon to open up the Copilot pane.
+1. Click on the **Apps (1)** from the left navigation pane, and then select **Outlook (2)** under the Apps section.
+
+    ![](./Images/m1p2t3p1.png)
+
+1. In the Outlook ribbon, select the **Copilot** icon to open up the Copilot pane.
+
+    ![](./Images/m1p2t3p2.png)
 
 1. Use the following prompt to schedule a sync-up:
 
@@ -116,18 +138,28 @@ In this demo, we'll use Copilot in Outlook to set up a meeting with the executiv
     I need to schedule a 30-minute meeting with [/Pick a colleague] tomorrow afternoon to discuss the Second Quarter Earnings Conference Call. Can you suggest a time that works? If they are unavailable, provide an alternative.
     ```
 
-1. Copilot should suggest a time and date for the meeting. The prompt displays a calendar item that can be sent or edited. Select **Edit**.
+    - **Email:** <inject key="User01UPN"></inject>
 
-1. Switch to scheduling assistant to show that the time suggested by Copilot works for the project manager. You should both be free.
+        ![](./Images/m1p2t3p4.png)
 
-1. Switch back to the event tab and then select **Draft with Copilot** in the event body.
+        >**Note:** After pasting, add the user’s email mentioned in the point that follows the prompt.
 
-1. In the prompt window, type the following:
+1. Copilot will suggest a few possible dates and times for the meeting. Review the options, enter your preferred one, wait for Copilot’s response, and then click **Continue in Outlook**.
+
+    ![](./Images/m1p2t3p5.png)
+
+1. A new browser tab will open. In that window, under the **Draft an agenda for me (Alt + I)** section, press **Spacebar** to display the **Open Copilot** icon, then paste the following prompt into the prompt box:
 
     ```text
     I’m meeting with my boss to discuss key updates and strategic initiatives they missed from the Second Quarter Earnings Conference Call. Create an agenda to discuss financial performance, AI and technology integration, strategic acquisitions, productivity updates, and future outlook.
     ```
 
+    ![](./Images/m1p2t3p6.png)
+
 1. Optionally, before selecting **Keep it**, you can ask Copilot to make it longer, shorter, or change the tone of the drafted agenda.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+    ![](./Images/m1p2t3p7.png)
+
+## Summary
+
+### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
