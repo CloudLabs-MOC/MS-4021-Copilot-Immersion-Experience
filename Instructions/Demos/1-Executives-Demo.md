@@ -1,11 +1,8 @@
----
-demo:
-    title: 'Executives Demo'
----
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Executive  Demos
+
+### Estimated Duration: Minutes
+
+## Overview
 
 Pick three executive demonstrations from the following repository:[MS-4008: Microsoft 365 Copilot Interactive Experience for Executives](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 

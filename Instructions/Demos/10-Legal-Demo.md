@@ -4,8 +4,6 @@
 
 ## Overview
 
-**Scenario:**  
-
 In this lab, you’ll use Microsoft Copilot across Copilot Chat, Word, and Outlook to assess legal compliance of Contoso’s AI Resume Screening Software under the EU AI Act. You’ll learn how to research regulations, identify legal risks, summarize compliance requirements, and communicate findings effectively. The lab demonstrates how natural language prompts can streamline legal research, reporting, and executive communication, helping legal advisors provide actionable recommendations efficiently.
 
 ## Objectives
