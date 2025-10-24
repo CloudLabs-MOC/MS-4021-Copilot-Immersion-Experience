@@ -1,19 +1,12 @@
----
-demo:
-    title: 'Executive Assistant Demo'
----
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
-# Executive Assistant Demo
+# Executive Assistant
 
 ### Estimated Duration: Minutes
 
 ## Overview
 
-**Scenario:**
+In this lab, you’ll take on the role of an Executive Assistant responsible for summarizing a company’s latest earnings conference call. The goal is to use Microsoft 365 Copilot tools across Word, Copilot Chat, and Outlook to analyze information, generate summaries, and prepare meeting materials for an executive.
 
-You’ve been tasked with summarizing the latest earnings conference call transcript for your executive. This task includes extracting key insights, creating an executive summary, and preparing for a follow-up meeting.
+You’ll start by extracting key insights from the Microsoft FY24 Second Quarter Earnings Conference Call transcript, then refine that content into an executive summary and actionable talking points. Finally, you’ll schedule a follow-up meeting with your executive, complete with a structured agenda created using Copilot in Outlook.
 
 ## Objectives
 
@@ -40,11 +33,9 @@ In this task, you'll start by reviewing the transcript from the most recent earn
     ![](./Images/m1p2t1p1.png)
 
 1. In the Word window, click **Upload a file (1)**. In the **Open** dialog box, select **`Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx` (2)** and click **Open (3)**.
-
     
     ![](./Images/m1p2t1p2.png)
 
-    
     ![](./Images/m1p2t1p2(1).png)
 
 1. Under the **Home (1)** tab, select the **Copilot (2)** icon from the Ribbon.
@@ -162,4 +153,14 @@ In this task, you'll use Copilot in Outlook to set up a meeting with the executi
 
 ## Summary
 
+By completing this lab, you practiced using Copilot across multiple Microsoft 365 apps to streamline executive support tasks:
+
+- In Word, you analyzed the earnings call transcript to summarize key financial highlights, strategic insights, and speaker contributions.
+
+- In Copilot Chat, you refined the content into a concise, structured executive summary and generated clear talking points for leadership communication.
+
+- In Outlook, you scheduled a sync-up meeting and created a professional agenda covering financial performance, AI strategy, acquisitions, productivity, and future outlook.
+
 ### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
+
+![](./Images/nextpagem1.png)

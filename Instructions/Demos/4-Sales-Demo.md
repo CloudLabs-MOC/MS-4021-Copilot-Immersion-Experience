@@ -14,6 +14,8 @@ In this lab, you’re preparing a regional sales strategy for EV chargers by ana
 
 ## Task 1: Copilot Chat
 
+In this task, you’ll use Copilot Chat to analyze EV market trends, visualize your company’s regional sales data, and generate data-driven recommendations to boost sales performance.
+
 1. Download the following file by clicking on the **Download** button:
 
     - [Charger_sales_report_2022-2024.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
@@ -62,7 +64,7 @@ In this lab, you’re preparing a regional sales strategy for EV chargers by ana
 
 ## Task 2: Copilot in Word
 
-We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
+In this task, you'll ask Copilot to expand on these strategies and draft proposals on how to implement them.
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **Word (2)** under Apps section.
 
@@ -95,6 +97,8 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
     > **Trainer Tip:** Use this step to demonstrate how Copilot builds on prior outputs, refining ideas into a cohesive proposal.
 
 ## Task 3: Copilot in PowerPoint
+
+In this task, you’ll use Copilot in PowerPoint to automatically create a presentation from a Word document, transforming written content into well-structured slides with visuals, notes, and layouts.
 
 1. Click on the **Apps (1)** fromt he left navigative apne and then select **PowerPoint (2)** under Apps section.
 
@@ -138,3 +142,5 @@ In the lab, you’ve:
 - Used Copilot in PowerPoint to transform the proposal into a polished presentation, complete with speaker notes and visuals, ready to share with your sales team or leadership.
 
 ### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
+
+![](./Images/nextpagem2.png)

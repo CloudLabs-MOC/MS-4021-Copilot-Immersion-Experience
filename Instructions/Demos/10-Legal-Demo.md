@@ -1,4 +1,4 @@
-# Legal Demo
+# Legal
 
 ### Eastimated Duration: Minutes
 

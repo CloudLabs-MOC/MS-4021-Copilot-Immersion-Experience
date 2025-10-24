@@ -106,3 +106,5 @@ In this lab, you successfully used Copilot to:
 - Refine and structure these answers into an FAQ document suitable for publication or reference.
 
 ### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
+
+![](./Images/nextpagem2.png)

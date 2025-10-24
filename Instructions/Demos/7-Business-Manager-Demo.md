@@ -1,35 +1,54 @@
----
-demo:
-    title: 'Business Manager Demo'
----
+# Business Manager
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+### Estimated Duration: Minutes
 
-# Business Manager Demo
+## Overview
 
-**Scenario:**
+In this lab, you’ll step into the role of a Business Manager analyzing sales performance and customer feedback for an electric vehicle (EV) charger product line. Your goal is to identify performance issues, research potential improvements, and collaborate with your team to plan next steps, all using Microsoft 365 Copilot across Excel, Copilot Chat, and Outlook.
 
-Analyze sales performance and customer feedback to address a product issue, then collaborate with your team to plan improvements.
+You’ll begin by exploring sales data in Excel to uncover trends, highlight underperforming products, and identify recurring customer concerns. Then, you’ll use Copilot Chat to research industry insights and generate strategic discussion points. Finally, you’ll use Copilot in Outlook to schedule a meeting and create a structured agenda for addressing the product issues.
 
-## Demo setup
+## Objectives
 
-The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
+- Task 1: Copilot in Excel
+- Task 2: Copilot Chat
+- Task 3: Copilot in Outlook
 
-The specific files needed for this demo are:
+## Task 1: Copilot in Excel
 
-- [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
+In this task, you'll use Excel to analyze sales data, calculate revenue, visualize category performance, and pinpoint low-performing products. You will also summarize key customer concerns to identify the primary issue, slow charging speeds.
 
-> **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
+1. Download the following file by clicking on the **Download** button:
 
-## Demo Steps
+    - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
 
-### Copilot in Excel
+        ![](./Images/m4p2t1p1.png)
 
-1. Launch Excel (either in your browser or desktop application) and open the **EV_Charger_Sales_Analysis_v1.xlsx** file.
+1. Open a new tab in the browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
-1. **Navigate to the "Sales by Product"** tab in the Excel file.
+    ![](./Images/m3p2t1p1.png)
 
-1. select **Copilot** from the excel ribbon, then select **App skills** to open the Copilot pane.
+1. Click on the **Apps (1)** from the left navigation pane, and then select **Excel (2)** under the Apps section.
+
+    ![](./Images/m1p3t1p1.png)
+
+1. In the Excel window, click **Upload a file (1)**. In the **Open** dialog box, select **`EV_Charger_Sales_Analysis_v1.xlsx` (2)** and click **Open (3)**.
+
+    ![](./Images/m1p3t1p2.png)
+
+    ![](./Images/m1p3t1p2(1).png)
+
+1. Navigate to the **Sales by Product** tab in the Excel file.
+
+    ![](./Images/m4p2t1p3.png)
+
+1. From the **Home (1)** tab, select **Copilot (2)** from the excel ribbon, then select **App skills (3)** to open the Copilot pane.
+
+    ![](./Images/m1p3t1p3.png)
+
+    >**Note:** If *Sign in to access copilot* pop-up window appears, click on **Sign in**.
+
+    ![](./Images/m1p3t1p3(1).png)
 
 1. Use Copilot to Calculate Monthly Revenue:  
 
@@ -43,7 +62,9 @@ The specific files needed for this demo are:
 
     - Copilot knows how to do that and which data to reference across tabs.
     - Copilot creates a plan for how it runs those numbers, executes that plan showing its work as it goes, and prompts you to ask questions or iterate on the solution it reached.
-    - Select **+Insert column**, then navigate back to the **Sales by Product** tab.
+    - Select **+ Insert column**, then navigate back to the **Sales by Product** tab.
+
+        ![](./Images/m1p3t1p4.png)
 
 1. Use Copilot to analyze revenue by entering the following prompt in the Copilot pane:
 
@@ -52,7 +73,9 @@ The specific files needed for this demo are:
     ```
 
     - Copilot runs the numbers and creates a bar chart that you can add to your workbook.
-    - Select **+Add to a new sheet**, then navigate back to the **Sales by Product** tab.
+    - Select **+ Insert to new sheet**, then navigate back to the **Sales by Product** tab.
+
+        ![](./Images/m1p3t1p5.png)
 
 1. Now, use Copilot to highlight products with low sales by entering this prompt:
 
@@ -62,7 +85,11 @@ The specific files needed for this demo are:
 
     - Copilot applies conditional formatting, helping you identify products that aren’t performing to your standards.
 
-1. **Navigate to the "Reviews" tab** to analyze customer feedback.
+        ![](./Images/m1p3t1p5.png)
+
+1. Navigate to the **Reviews** tab to analyze customer feedback.
+
+    ![](./Images/m1p3t1p6.png)
 
 1. Ask Copilot to summarize the top concerns by entering the following prompt:
 
@@ -80,15 +107,15 @@ The specific files needed for this demo are:
 
     - Copilot highlights all relevant reviews in the dataset.
 
-### Copilot Chat
+## Task 2: Copilot Chat
 
-Now that we’ve identified slow charging speed as a key issue, use **Copilot Chat** to explore the problem further and identify potential solutions.
+In this task, you'll use **Copilot Chat** to explore the problem further and identify potential solutions.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).  
 
-1. Ensure **Web Mode** is selected.  
+1. Ensure **Web** mode is selected.  
 
-    ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
+    ![](./Images/m1p2t2p2.png)
 
 1. To research the issue, enter the following prompt:
   
@@ -98,18 +125,25 @@ Now that we’ve identified slow charging speed as a key issue, use **Copilot Ch
 
    - Review Copilot’s summary and ask for additional context or recent trends, if needed.  
 
+        ![](./Images/m1p3t2p3.png)
+
 1. Optionally, refine the output:
+
    - Ask Copilot for recent trends or technologies addressing EV charger efficiency:
 
-    ```text
-    What are the latest innovations or technologies addressing slow EV charger speeds in 2024?
-    ```
+        ```text
+        What are the latest innovations or technologies addressing slow EV charger speeds in 2024?
+        ```
+
+        ![](./Images/m1p3t2p4.png)
 
    - Request competitor insights:
 
-    ```text
-    Assuming competitors in the EV charging market are improving speed by 20% annually, suggest how we could position our CC-2001 and CC-2000 models to stay competitive.
-    ```
+        ```text
+        Assuming competitors in the EV charging market are improving speed by 20% annually, suggest how we could position our CC-2001 and CC-2000 models to stay competitive.
+        ```
+
+        ![](./Images/m1p3t2p5.png)
 
 1. Ask copilot to come up with five strategic questions to ask the project lead for EV chargers:
 
@@ -117,32 +151,55 @@ Now that we’ve identified slow charging speed as a key issue, use **Copilot Ch
     Based on this information, suggest 5 strategic questions to ask the product team during our meeting tomorrow. Focus on identifying root causes, assessing risks, and brainstorming potential improvements.
     ```
 
-### Copilot in Outlook
+    ![](./Images/m1p3t2p6.png)
 
-In this demo, we'll use Copilot in Outlook to set up a meeting with the Project lead in charge of the EV charger product line to discuss potential solutions.
+## Task 3: Copilot in Outlook
+
+In this task, you'll use Copilot in Outlook to set up a meeting with the Project lead in charge of the EV charger product line to discuss potential solutions.
 
 1. Open a browser and navigate to [outlook.office.com](https://outlook.office.com.com/).
 
-1. In the Outlook ribbon, select the Copilot Icon to open up the Copilot pane.
+1. Click on the **Apps (1)** from the left navigation pane, and then select **Outlook (2)** under the Apps section.
+
+    ![](./Images/m1p2t3p1.png)
+
+1. In the Outlook ribbon, select the **Copilot** icon to open up the Copilot pane.
+
+    ![](./Images/m1p2t3p2.png)
 
 1. In the prompt window, type the following:
 
-    ```text
-    I need to schedule a meeting with [/Pick a colleague] tomorrow afternoon to discuss the EV charger issue reports. Can you suggest a time that works? If they are unavailable, please suggest an alternative time.
-    ```
+    - **Email:** <inject key="User01UPN"></inject>
 
-1. Copilot should suggest a time and date for the meeting. the prompt displays a calendar item that can be sent or edited, select **Edit**.
+        ```text
+        I need to schedule a meeting with [/Pick a colleague] tomorrow afternoon to discuss the EV charger issue reports. Can you suggest a time that works? If they are unavailable, please suggest an alternative time.
+        ```
 
-1. Switch to scheduling assistant to show that the time suggested by Copilot works for the project manager. You should both be free.
+        >**Note:** After pasting, add the user’s email mentioned in the point that follows the prompt.
 
-1. Switch back to the event tab and then select **Draft with Copilot** in the event body.
+1. Copilot will suggest a few possible dates and times for the meeting. Review the options, enter your preferred one, wait for Copilot’s response, and then click **Continue in Outlook**.
 
-1. In the prompt window, type the following:
+1. A new browser tab will open. In that window, under the **Draft an agenda for me (Alt + I)** section, press **Spacebar** to display the **Open Copilot** icon, then paste the following prompt into the prompt box:
 
     ```text
     Create an agenda for a meeting to discuss slow charging speeds with our CC-2001 and CC-2000 models. Include time for an introduction to the issue, a review of any available data or customer feedback, and a brainstorming session for potential solutions.  
     ```
 
+    ![](./Images/m1p3t3p5.png)
+
 1. Optionally, before selecting **Keep it** you can ask copilot to make it longer, shorter, or change the tone of the drafted agenda.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+    ![](./Images/m1p3t3p6.png)
+
+## Summary
+
+By completing this lab, you learned how to apply Copilot to real-world business analysis and collaboration tasks:
+
+- In Excel, you analyzed sales data, calculated revenue, visualized category performance, and pinpointed low-performing products. You also summarized key customer concerns to identify the primary issue, slow charging speeds.
+
+- In Copilot Chat, you conducted quick market research, explored the root causes of charging issues, gathered competitor insights, and formulated strategic questions for the upcoming team discussion.
+
+- In Outlook, you scheduled a meeting with the project lead and generated a focused agenda to guide the conversation on solutions and product improvements.
+
+
+### Congratulations! You've successfully completed the Hands-on lab.

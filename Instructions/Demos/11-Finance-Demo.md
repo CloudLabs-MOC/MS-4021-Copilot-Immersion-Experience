@@ -234,3 +234,5 @@ In this task, you’ll use Copilot in Word to summarize your financial analysis 
 In this lab, you analyzed EV charger sales data using Copilot in Excel, identifying trends, calculating totals and averages, and finding top-performing products and customers. You then used Copilot Chat to benchmark your company’s financial performance against competitors and export insights to a Word document. Finally, you leveraged Copilot in Word to summarize these insights into a professional email for your team. The lab highlights how Copilot can accelerate financial analysis, reporting, and decision-making by combining data processing with clear communication.
 
 ### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
+
+![](./Images/nextpagem1.png)

@@ -139,3 +139,4 @@ In this lab, you used Copilot Chat to create a detailed project implementation p
 
 ### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
 
+![](./Images/nextpagem1.png)

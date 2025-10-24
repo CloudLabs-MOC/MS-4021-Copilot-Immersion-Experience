@@ -1,4 +1,4 @@
-# Marketing Demo
+# Marketing
 
 ### Estimated Duration: Minutes
 
@@ -157,3 +157,5 @@ In this lab, you’ve:
 - Used Copilot in Excel to analyze social media engagement data, calculate average sales per campaign view, and identify trends to guide future marketing efforts.
 
 ### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
+
+![](./Images/nextpagem2.png)

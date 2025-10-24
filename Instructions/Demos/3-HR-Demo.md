@@ -1,4 +1,4 @@
-# HR Demo
+# HR
 
 ### Estimated Duration: Minutes
 
@@ -142,3 +142,5 @@ In the lab, you’ve:
 - Used Copilot in Outlook to draft an email recommending interviews for the top candidates—Nestor Wilke and Patti Fernandez—and requesting feedback from the hiring team.
 
 ### You have successfully completed the exercise. Click on Next >> to proceed with the next exercise.
+
+![](./Images/nextpagem2.png)
