@@ -83,13 +83,13 @@ In this task, you'll use Excel to analyze sales data, calculate revenue, visuali
     Highlight rows where the value in column H is less than $100K.
     ```
 
-    - Copilot applies conditional formatting, helping you identify products that aren’t performing to your standards.
+    - Click on **Apply** so copilot applies conditional formatting, helping you identify products that aren’t performing to your standards. 
 
-        ![](./Images/m1p3t1p5.png)
+        ![](./Images/m1p3t1p6.png)
 
 1. Navigate to the **Reviews** tab to analyze customer feedback.
 
-    ![](./Images/m1p3t1p6.png)
+    ![](./Images/m1p3t1p7.png)
 
 1. Ask Copilot to summarize the top concerns by entering the following prompt:
 
