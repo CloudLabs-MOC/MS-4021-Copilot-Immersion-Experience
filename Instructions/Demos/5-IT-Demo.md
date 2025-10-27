@@ -16,7 +16,7 @@ In this lab, you’ll use Microsoft Copilot across Copilot Chat, Word, and Power
 
 In this lab, you'll use Copilot Chat to create a detailed project implementation plan for deploying a new network security product, including milestones, resources, risks, and timelines.
 
-1. Download the following files by clicking on the **Download** button:
+1. Download the following files by clicking on the **Download file** button:
 
     - [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
 

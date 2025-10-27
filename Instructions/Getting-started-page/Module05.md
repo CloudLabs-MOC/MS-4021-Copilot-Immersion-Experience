@@ -4,11 +4,11 @@ Welcome to your MS-4021: Building Custom AI Experiences with Copilot Studio work
 
 ### Overall Estimated Duration: 1 Hour
 
-## Overview
+## Lab Overview
 
 In this lab, you will explore how Microsoft 365 Copilot and Copilot Studio Lite empower users to create, customize, and deploy their own AI-powered assistants. You’ll design a specialized Copilot agent by defining its role, tone, and purpose, then connect it to relevant business data for grounded responses. Through hands-on exercises in Word, Teams, and Copilot Chat, you’ll test, refine, and publish your custom agent, seeing firsthand how tailored Copilots can extend Microsoft 365 capabilities, automate knowledge sharing, and drive smarter collaboration across the organization.
 
-## Objectives
+## Lab Objectives
 
 By the end of this lab, you will be able to:
 

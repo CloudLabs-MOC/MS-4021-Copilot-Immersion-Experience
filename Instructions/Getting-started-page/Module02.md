@@ -4,11 +4,11 @@ Welcome to your MS-4021 : Copilot for Departmental Excellence workshop! We’re 
 
 ### Overall Estimated Duration: 2 Hours
 
-## Overview
+## Lab Overview
 
 In this lab, you will explore how Microsoft 365 Copilot enhances productivity, communication, and business insights across Excel, Word, Outlook, and PowerPoint. You’ll use Copilot to analyze EV charger sales data, generate professional reports, draft and summarize emails, and design presentations, all through natural language prompts. The lab showcases how Copilot integrates data analysis, content creation, and collaboration into a unified workflow, helping you work smarter and deliver results faster.
 
-## Objectives
+## Lab Objectives
 
 By the end of these exercises, you will be able to:
 

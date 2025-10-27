@@ -4,11 +4,11 @@ Welcome to your MS-4021: Copilot for IT and Compliance Teams workshop! In this l
 
 ### Overall Estimated Duration: 1 Hour
 
-## Overview
+## Lab Overview
 
 In this lab, you’ll explore how Microsoft 365 Copilot supports IT and Legal professionals in managing complex projects and regulatory analysis. You’ll use Copilot across Chat, Word, PowerPoint, and Outlook to plan and document an IT product deployment, evaluate compliance with emerging AI regulations, generate executive summaries, and communicate recommendations effectively. The lab demonstrates how Copilot streamlines planning, documentation, and communication across technical and legal workflows.
 
-## Objectives
+## Lab Objectives
 
 By the end of these labs, you will be able to:
 

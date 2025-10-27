@@ -16,7 +16,7 @@ In this lab, you’re developing a marketing strategy for Mystic Spice Premium C
 
 In this task, you'll use Copilot in Word to create a comprehensive market analysis report for Mystic Spice Premium Chai Tea, incorporating product details, market trends, and promotional strategies for the Latin American market. You'll also brainstorm creative social media campaign ideas with tailored messaging and taglines for the target audience.
 
-1. Download the following files by clicking on the **Download** button:
+1. Download the following files by clicking on the **Download file** button:
 
     - [Promotion_Plan_for_Chai_Tea_in_Latin_America.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Promotion_Plan_for_Chai_Tea_in_Latin_America.docx)
 

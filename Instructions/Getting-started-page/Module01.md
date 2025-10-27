@@ -4,21 +4,21 @@ Welcome to your MS-4021: Strategic Leadership with Microsoft Copilot workshop! I
 
 ### Overall Estimated Duration: 1 Hour
 
-## Overview
+## Lab Overview
 
 In this lab, you will explore how Microsoft 365 Copilot enhances productivity and decision-making across real business scenarios. You’ll use Copilot in Word, Excel, Chat, and Outlook to analyze company data, generate executive summaries, research industry insights, and organize professional meetings, all designed to streamline analysis, communication, and strategic planning.
 
-## Objectives
+## Lab Objectives
 
 By the end of these labs, you will be able to:
 
-1. **Analyze and summarize business data using Copilot in Word and Excel:** Extract key insights from large datasets and documents, summarize critical information, and highlight trends or issues impacting business performance.
+- **Analyze and summarize business data using Copilot in Word and Excel:** Extract key insights from large datasets and documents, summarize critical information, and highlight trends or issues impacting business performance.
 
-2. **Generate executive-level insights and communication materials using Copilot Chat:** Refine detailed analyses into concise executive summaries, actionable talking points, and research-backed strategic recommendations.
+- **Generate executive-level insights and communication materials using Copilot Chat:** Refine detailed analyses into concise executive summaries, actionable talking points, and research-backed strategic recommendations.
 
-3. **Plan and organize professional meetings using Copilot in Outlook:** Automate meeting scheduling, generate structured agendas, and align discussions around financial performance, product strategy, and improvement opportunities.
+- **Plan and organize professional meetings using Copilot in Outlook:** Automate meeting scheduling, generate structured agendas, and align discussions around financial performance, product strategy, and improvement opportunities.
 
-4. **Apply Microsoft 365 Copilot across multiple apps to streamline decision-making:** Use AI-assisted workflows to transition seamlessly between Word, Excel, Chat, and Outlook, enhancing productivity, collaboration, and strategic communication.
+- **Apply Microsoft 365 Copilot across multiple apps to streamline decision-making:** Use AI-assisted workflows to transition seamlessly between Word, Excel, Chat, and Outlook, enhancing productivity, collaboration, and strategic communication.
 
 ## Prerequisites 
 

@@ -4,21 +4,19 @@ Welcome to your MS-4021: M365 Copilot Interactive Experience for Executives work
 
 ## Overall Estimated Duration: 120 Minutes
 
-## Overview
+## Lab Overview
 
 In this lab, you will explore how Microsoft 365 Copilot can assist in developing a new business idea. You’ll use Copilot across Word, Excel, PowerPoint, and Outlook to research, plan, create, and communicate effectively.
 
-## Objective 
+## Lab Objectives 
 
 By the end of these labs, you will be able to:
 
-1. **Brainstorm and conduct market research using Copilot Chat:** Identify market gaps, emerging trends, and key competitors to generate actionable business insights.
+- **Brainstorm and conduct market research using Copilot Chat:** Identify market gaps, emerging trends, and key competitors to generate actionable business insights.
 
-1. **Develop and refine a business concept with Copilot in Word:** Draft a detailed concept document and iteratively enhance it for clarity and persuasiveness.
+- **Develop and refine a business concept with Copilot in Word:** Draft a detailed concept document and iteratively enhance it for clarity and persuasiveness.
 
-1. **Create and enhance presentations with Copilot in PowerPoint:** Convert a concept document into a compelling slide deck and refine it to maximize engagement and impact.
-
-1. **Build and customize a virtual assistant agent using Copilot Studio:** Define, configure, and test a Copilot agent to provide accurate, cited responses based on your product knowledge base.
+- **Create and enhance presentations with Copilot in PowerPoint:** Convert a concept document into a compelling slide deck and refine it to maximize engagement and impact.
 
 ## Prerequisites 
 
@@ -34,8 +32,6 @@ The lab workflow demonstrates how Microsoft 365 Copilot orchestrates AI-powered 
 
 - **Copilot in PowerPoint:** Transforms the concept document into a professional presentation. Copilot automates slide creation, suggests optimal order, and adds content to improve engagement and address challenges.
 
-- **Copilot Studio:** Enables creation of a custom virtual assistant agent. The agent is configured with operational guidelines, connected to a SharePoint-based knowledge base, and tested to deliver accurate, cited responses.
-
 ## Architecture Diagram: 
 
    ![](../Demos/Images/ms-4008-architecture.png)
@@ -47,8 +43,6 @@ The lab workflow demonstrates how Microsoft 365 Copilot orchestrates AI-powered 
 - **Copilot in Word:** Document creation and refinement tool that leverages Copilot to draft, edit, and polish business concept documents. Supports iterative enhancement for clarity, persuasiveness, and professional appeal.
 
 - **Copilot in PowerPoint:** Presentation builder that transforms concept documents into structured slide decks. Copilot automates slide generation, suggests optimal order, and adds content to improve engagement and address business challenges.
-
-- **Copilot Studio:** Platform for building and customizing virtual assistant agents. Allows configuration of agent roles, operational guidelines, and integration with SharePoint-based knowledge bases to deliver accurate, cited responses.
 
 ## Getting Started with the Lab
 

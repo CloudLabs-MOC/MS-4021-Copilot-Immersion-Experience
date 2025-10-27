@@ -16,7 +16,7 @@ In this lab, you’re preparing a regional sales strategy for EV chargers by ana
 
 In this task, you’ll use Copilot Chat to analyze EV market trends, visualize your company’s regional sales data, and generate data-driven recommendations to boost sales performance.
 
-1. Download the following file by clicking on the **Download** button:
+1. Download the following file by clicking on the **Download file** button:
 
     - [Charger_sales_report_2022-2024.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx)
 

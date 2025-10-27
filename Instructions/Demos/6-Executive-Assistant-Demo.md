@@ -1,6 +1,6 @@
 # Executive Assistant
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 
@@ -18,7 +18,7 @@ You’ll start by extracting key insights from the Microsoft FY24 Second Quarter
 
 In this task, you'll start by reviewing the transcript from the most recent earnings call and summarizing the key points for your executive.
 
-1. Download the following file by clicking on the **Download** button:
+1. Download the following file by clicking on the **Download file** button:
 
     - [Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx)
 

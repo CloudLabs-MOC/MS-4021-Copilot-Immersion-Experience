@@ -18,7 +18,7 @@ In this lab, you will use **Copilot Studio Lite** to build, configure, and publi
 
 In this task, you'll navigate to Copilot Studio Lite, download a set of resource files, and begin the process of creating a custom agent. 
 
-1. Download the following files by clicking on the **Download** button:
+1. Download the following files by clicking on the **Download file** button:
 
     - [**Delivery Drone Press Release.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/Delivery_Drone_Press_Release.docx)
     - [**Delivery Drone Troubleshooting.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/ResourceFiles/Delivery_Drone_Troubleshooting.docx)

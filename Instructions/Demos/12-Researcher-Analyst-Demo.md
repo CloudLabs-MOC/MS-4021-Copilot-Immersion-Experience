@@ -6,17 +6,6 @@
 
 In this lab, you’ll explore how to use **Researcher** and **Analyst**, two expert agents built into the Microsoft Copilot app. You’ll learn how **Researcher** combines internal and web-based knowledge to build structured, well-supported marketing plans, and how **Analyst** applies data science techniques to uncover insights, perform modeling, and create visualizations. By the end, you’ll understand how both agents work together to accelerate decision-making, strategy development, and data analysis.
 
-## Demo Setup
-
-In order to complete these demos, you will need to download the [Researcher and Analyst Demo - Content Pack](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW), which contains all the necessary files and resources.  
-
-## Talking Points
-
-- **Researcher** acts like a highly paid consultant: it can build structured, well-cited deliverables by blending internal files, competitor intelligence, and web sources.  
-- **Analyst** is like having a data scientist on hand: it builds models, runs Python code, and visualizes trends instantly.  
-- Both agents explain their reasoning transparently so you can validate results.  
-- Together, they accelerate strategic work—marketing plans, customer segmentation, financial projections—so you can move faster with confidence.  
-
 ## Objectives
 
 - Task 1: Using Researcher build a Marketing Plan
@@ -25,6 +14,10 @@ In order to complete these demos, you will need to download the [Researcher and 
 ## Task 1: Using Researcher to build a Marketing Plan
 
 In this task, you’ll use the **Researcher** agent to create a comprehensive marketing plan for the SprintCycle EV charger launch. You’ll upload internal files, integrate competitor and campaign insights, and let Researcher generate a structured, well-cited plan that includes digital channel and content strategy recommendations.
+
+1. Download the following file by clicking on the **Download file** button:
+
+    - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
 
 1. From the left navigation menu, click on **Apps (1)** and then select **OneDrive (2)**.
 

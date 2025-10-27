@@ -16,7 +16,7 @@ In this lab, you’re acting as an Operations Manager at Contoso, responsible fo
 
 In this task, you'll start by asking Copilot in Word some questions about a Request for Proposal (RFP) document.
 
-1. Download the following files by clicking on the **Download** button:
+1. Download the following files by clicking on the **Download file** button:
 
     - [Contoso_Completed_RFP.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Completed_RFP.docx)
 

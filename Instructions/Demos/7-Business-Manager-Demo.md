@@ -1,6 +1,6 @@
 # Business Manager
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 
@@ -18,7 +18,7 @@ You’ll begin by exploring sales data in Excel to uncover trends, highlight und
 
 In this task, you'll use Excel to analyze sales data, calculate revenue, visualize category performance, and pinpoint low-performing products. You will also summarize key customer concerns to identify the primary issue, slow charging speeds.
 
-1. Download the following file by clicking on the **Download** button:
+1. Download the following file by clicking on the **Download file** button:
 
     - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
 

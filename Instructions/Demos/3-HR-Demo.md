@@ -16,7 +16,7 @@ In this lab, you’re managing the hiring process for a Senior Animation Designe
 
 In this task, you’ll use Copilot in Word to create a detailed and tailored job description based on role responsibilities.
 
-1. Download the following files by clicking on the **Download** button:
+1. Download the following files by clicking on the **Download file** button:
 
     - [Design_Team_Responsibilities.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Graphic_Design_Institute_Design_Team_Responsibilities.docx)
 

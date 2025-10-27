@@ -16,7 +16,7 @@ In this lab, you’ll use Microsoft Copilot across Excel, Copilot Chat, and Word
 
 In this task, you’ll use Copilot in Excel to analyze EV charger sales data. You’ll identify revenue trends, calculate totals and averages, and highlight best-selling products. The goal is to practice using natural language prompts to generate insights and summaries directly within Excel.
 
-1. Download the following file by clicking on the **Download** button:
+1. Download the following file by clicking on the **Download file** button:
 
     - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
 
