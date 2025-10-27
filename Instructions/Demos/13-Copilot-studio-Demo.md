@@ -1,4 +1,3 @@
-
 # Build and Publish an Agent using Copilot studio lite
 
 ### Estimated Duration: Minutes

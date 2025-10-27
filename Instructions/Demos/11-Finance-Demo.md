@@ -1,4 +1,4 @@
-# Finance Demo
+# Finance
 
 ### Estimated Duration: Minutes
 

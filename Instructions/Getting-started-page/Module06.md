@@ -68,7 +68,7 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![](./Demos/Images/AI-3025-g1.png)
+![](../Demos/Images/AI-3025-g1.png)
 
 ## Lab Guide Zoom In/Zoom Out
  
@@ -87,30 +87,6 @@ For convenience, you can open the lab guide in a separate window by selecting th
 Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
  
 ![](../Demos/Images/AI-3025-g4.png)
-
-## Track Your Progress
-
-Click on the **Progress** tab to track your progress in the lab. The percentage increases as you complete each validation and reaches 100% when all validations are successfully completed.  
-
-On the **Progress (1)** tab, you can view your overall points and validation status, **Validations 0/1 (2)**.    
-
-![](../Demos/Images/AI-3018-g5.png)
-
-![](../Demos/Images/AI-3018-g6.png)
-
-## Lab Duration Extension
-
-1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment. 
-
-    ![](../Demos/Images/AI-3018-g7.png)
-
-    >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
-
-2. Click **OK** to extend your lab duration.
- 
-   ![](../Demos/Images/AI-3018-g8.png)
-
-3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
 
 ## Let's Get Started with Microsoft 365 Copilot Portal
  
