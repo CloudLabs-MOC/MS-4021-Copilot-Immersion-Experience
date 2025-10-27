@@ -61,7 +61,7 @@ Welcome to your MS-4021: Copilot for IT and Compliance Teams Workshop! We've pre
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-![](../Demos/Images/lab-environment.png)
+![](../Demos/Images/labguidetab.png)
 
 ## Virtual Machine & Lab Guide
  

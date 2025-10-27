@@ -2,7 +2,7 @@
 
 Welcome to your MS-4021: Building Custom AI Experiences with Copilot Studio workshop! We’re excited to guide you through hands-on learning with Microsoft 365 Copilot across Word, PowerPoint, Outlook, Teams, and Copilot Chat. In this lab, you’ll experience how Copilot can research business ideas, generate strategic plans, create impactful presentations, and streamline communication, helping you transform executive workflows into intelligent, efficient, and insight-driven actions.
 
-### Overall Estimated Duration: 1 Hour
+### Overall Estimated Duration: 40 Minutes
 
 ## Lab Overview
 
@@ -69,7 +69,7 @@ Welcome to your MS-4021: Building Custom AI Experiences with Copilot Studio Work
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-![](../Demos/Images/lab-environment.png)
+![](../Demos/Images/labguidetab.png)
 
 ### Virtual Machine & Lab Guide
  

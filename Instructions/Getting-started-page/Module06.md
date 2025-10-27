@@ -34,7 +34,7 @@ The lab workflow demonstrates how Microsoft 365 Copilot orchestrates AI-powered 
 
 ## Architecture Diagram: 
 
-   ![](../Demos/Images/ms-4008-architecture.png)
+   ![](../Demos/Images/archmod06.png)
 
 ## Explanation of Components
 
@@ -52,7 +52,7 @@ Welcome to your MS-4021: M365 Copilot Interactive Experience for Executives Work
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-![](../Demos/Images/archmod06.png)
+![](../Demos/Images/labguidetab.png)
 
 ## Virtual Machine & Lab Guide
  
