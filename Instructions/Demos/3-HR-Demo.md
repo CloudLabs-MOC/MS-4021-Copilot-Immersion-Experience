@@ -1,6 +1,6 @@
-# HR
+# Lab 02: HR Demo
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 

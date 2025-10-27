@@ -1,6 +1,6 @@
-# Marketing
+# Lab 04: Marketing Demo
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 

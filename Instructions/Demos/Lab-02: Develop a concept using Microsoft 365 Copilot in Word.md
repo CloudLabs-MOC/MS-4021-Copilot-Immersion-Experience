@@ -8,9 +8,9 @@ In this lab, you will use **Microsoft 365 Copilot in Word** to develop and refin
 
 ## Objectives
 
-- **Task 1:** Draft the Concept Document
+- Task 1: Draft the Concept Document
 
-- **Task 2:** Iterate and Revise the Document
+- Task 2: Iterate and Revise the Document
 
 ## Task 1: Draft the Concept Document
 

@@ -1,4 +1,4 @@
-# Business Manager
+# Lab 02: Business Manager Demo
 
 ### Estimated Duration: 30 Minutes
 

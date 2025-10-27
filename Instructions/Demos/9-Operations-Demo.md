@@ -1,6 +1,6 @@
-# Operations
+# Lab 05: Operations Demo 
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 

@@ -1,6 +1,6 @@
-# Finance
+# Lab 01: Finance Demo
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview 
 

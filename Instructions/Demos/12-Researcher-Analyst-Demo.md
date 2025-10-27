@@ -1,6 +1,6 @@
-# Researcher and Analyst
+# Lab 02: Researcher and Analyst Demo
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 

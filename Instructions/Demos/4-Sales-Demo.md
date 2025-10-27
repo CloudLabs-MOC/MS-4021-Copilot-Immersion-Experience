@@ -1,6 +1,6 @@
-# Sales
+# Lab 03: Sales Demo
 
-### Estimated Duration: Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 
