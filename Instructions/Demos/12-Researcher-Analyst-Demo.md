@@ -15,9 +15,17 @@ In this lab, you’ll explore how to use **Researcher** and **Analyst**, two exp
 
 In this task, you’ll use the **Researcher** agent to create a comprehensive marketing plan for the SprintCycle EV charger launch. You’ll upload internal files, integrate competitor and campaign insights, and let Researcher generate a structured, well-cited plan that includes digital channel and content strategy recommendations.
 
-1. Download the following file by clicking on the **Download file** button:
+1. Download the following files by clicking on the **Download file** button:
 
-    - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
+    - [BoulderEV_Internal_Market_Forecast.xlsx](https://github.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/prod/ResourceFiles/BoulderEV_Internal_Market_Forecast.xlsx)
+
+    - [SprintCycle_Charger_Product_Launch.docx](https://github.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/prod/ResourceFiles/SprintCycle_Charger_Product_Launch.docx)
+
+    - [Contoso-PedalPerks GTM Plan.docx](https://github.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/prod/ResourceFiles/Contoso-PedalPerks%20GTM%20Plan.docx)
+
+1. Open a new tab and navigate to [M365copilot.com](https://m365copilot.com/).
+
+    ![](./Images/m3p2t1p1.png)
 
 1. From the left navigation menu, click on **Apps (1)** and then select **OneDrive (2)**.
 

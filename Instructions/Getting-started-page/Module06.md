@@ -52,7 +52,7 @@ Welcome to your MS-4021: M365 Copilot Interactive Experience for Executives Work
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-![](../Demos/Images/lab-environment.png)
+![](../Demos/Images/archmod06.png)
 
 ## Virtual Machine & Lab Guide
  
@@ -115,6 +115,6 @@ Learner Support Contacts:
 
 Click on **Next** from the lower right corner to move on to the next page.
 
-   ![](../Demos/Images/next-page-2.png)
+   ![](../Demos/Images/nextpagemod06.png)
 
 ## Happy Learning !!

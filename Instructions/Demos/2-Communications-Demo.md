@@ -1,4 +1,4 @@
-# Communications Demo
+# Communications
 
 ### Estimated Duration: Minutes
 

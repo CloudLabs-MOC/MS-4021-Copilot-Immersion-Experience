@@ -112,6 +112,4 @@ In this task, you’ll use Microsoft 365 Copilot in PowerPoint to enhance and re
 
 In this lab, you explored how Microsoft 365 Copilot can facilitate the creation and refinement of a business presentation. You used Copilot in PowerPoint to generate a slide deck from a detailed concept document, then enhanced the presentation by optimizing slide order, improving engagement, and adding critical content on challenges and strategies. By completing these tasks, you experienced how Copilot supports efficient and impactful communication, enhancing productivity and creativity in business presentations.
 
-### You have successfully completed the lab, click on Next >> to proceed with the next exercise.
-
-![](../Demos/Images/next-page-5.png)
+### Congratulations! You've successfully completed the Hands-on lab.

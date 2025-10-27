@@ -98,4 +98,4 @@ In this lab, you explored how Microsoft 365 Copilot can assist in developing and
 
 ### You have successfully completed the lab, click on Next >> to proceed with the next exercise.
 
-![](../Demos/Images/next-page-4.png)
+![](../Demos/Images/nextpagemod06.png)
