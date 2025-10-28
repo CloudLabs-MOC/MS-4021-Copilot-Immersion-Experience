@@ -2,7 +2,7 @@
 
 Welcome to your MS-4021: M365 Copilot Interactive Experience for Executives workshop! We’re excited to guide you through hands-on learning with Microsoft 365 Copilot across Word, PowerPoint, Outlook, Teams and Copilot agent. In this lab, you’ll experience how Copilot can research ideas, generate business plans, create presentations, and streamline communication to bring a new business concept to life.
 
-## Overall Estimated Duration: 105 Minutes
+### Overall Estimated Duration: 105 Minutes
 
 ## Lab Overview
 
