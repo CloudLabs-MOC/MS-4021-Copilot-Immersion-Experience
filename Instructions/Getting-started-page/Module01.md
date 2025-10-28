@@ -2,7 +2,7 @@
 
 Welcome to your MS-4021: Strategic Leadership with Microsoft Copilot workshop! In this lab, you’ll experience how Microsoft 365 Copilot works across Word, Excel, Outlook, and Copilot Chat to simplify real-world business tasks. You’ll analyze financial and sales data, summarize key insights, research industry trends, and organize executive meetings, seeing firsthand how Copilot transforms everyday workflows into efficient, insight-driven actions.
 
-### Overall Estimated Duration: 60 Minutes
+### Overall Estimated Duration: 75 Minutes
 
 ## Lab Overview
 

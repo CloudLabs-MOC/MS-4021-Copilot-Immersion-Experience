@@ -1,6 +1,6 @@
 # Lab 01: Executive Assistant Demo
 
-### Estimated Duration: 30 Minutes
+### Estimated Duration: 35 Minutes
 
 ## Overview
 
