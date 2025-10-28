@@ -1,6 +1,6 @@
 # Lab 02: Researcher and Analyst Demo
 
-### Estimated Duration: 40 Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 Welcome to your MS-4021: Copilot for IT and Compliance Teams workshop! In this lab, you’ll see how Copilot can streamline technical project management in an enterprise environment. You’ll work across Copilot Chat, Word, and PowerPoint to design and document the deployment of a new network security product.
 
-### Overall Estimated Duration: 75 Minutes
+### Overall Estimated Duration: 60 Minutes
 
 ## Lab Overview
 

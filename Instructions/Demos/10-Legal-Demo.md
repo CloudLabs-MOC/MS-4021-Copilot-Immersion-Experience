@@ -1,6 +1,6 @@
 # Lab 02: Legal Demo
 
-### Eastimated Duration: 35 Minutes
+### Eastimated Duration: 30 Minutes
 
 ## Overview
 

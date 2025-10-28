@@ -1,6 +1,6 @@
 # Lab 03: Create a presentation using Microsoft 365 Copilot in PowerPoint
 
-### Estimated Duration: 40 Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Lab 02: Develop a concept using Microsoft 365 Copilot in Word
 
-### Estimated Duration: 35 Minutes
+### Estimated Duration: 30 Minutes
 
 ## Overview
 
