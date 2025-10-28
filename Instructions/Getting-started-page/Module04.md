@@ -2,7 +2,7 @@
 
 Welcome to your MS-4021: Copilot for Financial and Analytical Insights workshop! We’re excited to guide you through hands-on learning with Microsoft 365 Copilot across Word, Excel, Copilot Chat, and built-in agents like Researcher and Analyst. In this lab, you’ll experience how Copilot can analyze financial data, generate insights, build marketing strategies, and uncover customer trends, empowering you to turn complex business challenges into informed, actionable decisions.
 
-### Overall Estimated Duration: 1 Hour
+### Overall Estimated Duration: 75 Minutes
 
 ## Lab Overview
 

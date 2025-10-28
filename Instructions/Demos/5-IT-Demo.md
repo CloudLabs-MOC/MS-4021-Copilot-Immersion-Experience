@@ -1,6 +1,6 @@
 # Lab 01: IT Demo
 
-### Estimated Duration: 30 Minutes
+### Estimated Duration: 40 Minutes
 
 ## Overview
 

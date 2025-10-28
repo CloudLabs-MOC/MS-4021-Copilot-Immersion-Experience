@@ -1,4 +1,4 @@
-# Lab-01: Brainstorm ideas using Microsoft 365 Copilot Chat
+# Lab 01: Brainstorm ideas using Microsoft 365 Copilot Chat
 
 ### Estimated Duration: 30 Minutes
 

@@ -2,7 +2,7 @@
 
 Welcome to your MS-4021 : Copilot for Departmental Excellence workshop! We’re excited to guide you through hands-on learning with Microsoft 365 Copilot across Word, Excel, Outlook, PowerPoint, and Copilot Chat. In this lab, you’ll experience how Copilot streamlines everyday workflows, analyzing data, drafting professional documents, managing emails, and building presentations with ease. You’ll see how Copilot connects insights, communication, and creativity across Microsoft 365, empowering you to work faster, think clearer, and make smarter business decisions.
 
-### Overall Estimated Duration: 2.5 Hours
+### Overall Estimated Duration:  2.75 Hours
 
 ## Lab Overview
 

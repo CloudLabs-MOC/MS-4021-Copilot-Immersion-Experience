@@ -1,6 +1,6 @@
 # Lab 01: Build and Publish an Agent using Copilot studio lite
 
-### Estimated Duration: 30 Minutes
+### Estimated Duration: 45 Minutes
 
 ## Overview
 

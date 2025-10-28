@@ -1,10 +1,10 @@
-# Lab-02: Develop a concept using Microsoft 365 Copilot in Word
+# Lab 02: Develop a concept using Microsoft 365 Copilot in Word
 
-### Estimated Duration: 30 Minutes
+### Estimated Duration: 35 Minutes
 
 ## Overview
 
-In this lab, you will use **Microsoft 365 Copilot in Word** to develop and refine a concept for a new company, building on previous research. You’ll draft a comprehensive concept document, then iterate and enhance it using Copilot’s chat features to make the proposal more concise and persuasive. By completing this lab, you’ll gain practical experience leveraging Copilot to draft, edit, and polish business documents, improving clarity and appeal for professional audiences
+In this lab, you will use **Microsoft 365 Copilot in Word** to develop and refine a concept for a new company, building on previous research. You’ll draft a comprehensive concept document, then iterate and enhance it using Copilot’s chat features to make the proposal more concise and persuasive. By completing this lab, you’ll gain practical experience leveraging Copilot to draft, edit, and polish business documents, improving clarity and appeal for professional audiences.
 
 ## Objectives
 

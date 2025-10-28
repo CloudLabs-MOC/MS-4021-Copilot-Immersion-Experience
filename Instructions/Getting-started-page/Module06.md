@@ -2,35 +2,37 @@
 
 Welcome to your MS-4021: M365 Copilot Interactive Experience for Executives workshop! We’re excited to guide you through hands-on learning with Microsoft 365 Copilot across Word, PowerPoint, Outlook, Teams and Copilot agent. In this lab, you’ll experience how Copilot can research ideas, generate business plans, create presentations, and streamline communication to bring a new business concept to life.
 
-## Overall Estimated Duration: 2 Hours
+## Overall Estimated Duration: 105 Minutes
 
 ## Lab Overview
 
-In this lab, you will explore how Microsoft 365 Copilot can assist in developing a new business idea. You’ll use Copilot across Word, Excel, PowerPoint, and Outlook to research, plan, create, and communicate effectively.
+In this hands-on lab, you’ll see how **Microsoft 365 Copilot** connects creativity, research, and communication across Copilot Chat, Word, and PowerPoint. You’ll start by using **Copilot Chat** to brainstorm ideas and research your target market. Then, you’ll use **Copilot in Word** to shape those insights into a clear, well-structured business concept. Finally, you’ll use **Copilot in PowerPoint** to turn that concept into a polished, professional presentation.
+By the end, you’ll understand how Microsoft 365 Copilot helps you move seamlessly from idea to strategy to presentation, all within a single, connected workspace.
 
-## Lab Objectives 
+## Lab Objectives
 
 By the end of these labs, you will be able to:
 
-- **Brainstorm and conduct market research using Copilot Chat:** Identify market gaps, emerging trends, and key competitors to generate actionable business insights.
+* **Use Copilot Chat for ideation and research:** Generate innovative business ideas, identify market opportunities, and organize research findings for further development.
 
-- **Develop and refine a business concept with Copilot in Word:** Draft a detailed concept document and iteratively enhance it for clarity and persuasiveness.
+* **Build and refine a concept with Copilot in Word:** Transform research insights into a structured business concept document, improving clarity, tone, and persuasiveness.
 
-- **Create and enhance presentations with Copilot in PowerPoint:** Convert a concept document into a compelling slide deck and refine it to maximize engagement and impact.
+* **Design and polish a presentation with Copilot in PowerPoint:** Convert your concept document into a professional, engaging presentation ready for pitching or collaboration.
 
-## Prerequisites 
+## Prerequisites
 
-Basic familiarity with Microsoft 365 apps, including Word, Excel, PowerPoint, and Outlook.
+Basic familiarity with **Microsoft 365 apps**, including **Word**, **PowerPoint**, and **Copilot Chat**.
+Access to a **Microsoft 365 account** with **Copilot enabled** is also required.
 
 ## Architecture
 
-The lab workflow demonstrates how Microsoft 365 Copilot orchestrates AI-powered productivity across multiple applications to support business ideation and execution:
+The lab workflow showcases how **Microsoft 365 Copilot** unifies AI-driven creativity and productivity across Copilot Chat, Word, and PowerPoint to turn ideas into actionable business outcomes:
 
-- **Copilot Chat:** Facilitates brainstorming and market research by generating insights, identifying industry gaps, and researching competitors. Findings are exported to Word for further analysis.
+* **Copilot Chat:** Acts as the starting point for brainstorming and research. It helps identify market opportunities, analyze competitors, and gather insights that shape the foundation of your business concept.
 
-- **Copilot in Word:** Assists in drafting and refining a comprehensive business concept document. Copilot iteratively enhances clarity, persuasiveness, and structure based on user prompts and prior research.
+* **Copilot in Word:** Serves as the development layer where research insights are refined into a structured, compelling concept document. Copilot assists in drafting, editing, and improving clarity and tone.
 
-- **Copilot in PowerPoint:** Transforms the concept document into a professional presentation. Copilot automates slide creation, suggests optimal order, and adds content to improve engagement and address challenges.
+* **Copilot in PowerPoint:** Functions as the presentation layer, converting the concept document into an engaging slide deck. Copilot automates slide creation, organizes flow, and enhances visuals to strengthen communication and impact.
 
 ## Architecture Diagram: 
 
@@ -38,11 +40,11 @@ The lab workflow demonstrates how Microsoft 365 Copilot orchestrates AI-powered 
 
 ## Explanation of Components
 
-- **Copilot Chat:** AI-powered chat interface for brainstorming ideas, conducting market research, and generating strategic insights. Enables users to identify industry gaps, research competitors, and export findings for further analysis.
+* **Copilot Chat:** The conversational workspace for ideation and research. It helps users brainstorm business ideas, explore market opportunities, analyze competitors, and summarize insights that can be exported into Word for deeper development.
 
-- **Copilot in Word:** Document creation and refinement tool that leverages Copilot to draft, edit, and polish business concept documents. Supports iterative enhancement for clarity, persuasiveness, and professional appeal.
+* **Copilot in Word:** The document refinement environment where initial ideas are shaped into a coherent business concept. Copilot assists in drafting, reorganizing content, improving clarity and tone, and ensuring the document is concise and persuasive.
 
-- **Copilot in PowerPoint:** Presentation builder that transforms concept documents into structured slide decks. Copilot automates slide generation, suggests optimal order, and adds content to improve engagement and address business challenges.
+* **Copilot in PowerPoint:** The presentation design tool that converts written concepts into impactful visuals. Copilot automates slide creation, suggests structure and flow, and enriches slides with additional context to communicate ideas effectively.
 
 ## Getting Started with the Lab
 

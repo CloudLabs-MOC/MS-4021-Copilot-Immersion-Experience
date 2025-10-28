@@ -2,11 +2,11 @@
 
 Welcome to your MS-4021: Building Custom AI Experiences with Copilot Studio workshop! We’re excited to guide you through hands-on learning with Microsoft 365 Copilot across Word, PowerPoint, Outlook, Teams, and Copilot Chat. In this lab, you’ll experience how Copilot can research business ideas, generate strategic plans, create impactful presentations, and streamline communication, helping you transform executive workflows into intelligent, efficient, and insight-driven actions.
 
-### Overall Estimated Duration: 40 Minutes
+### Overall Estimated Duration: 45 Minutes
 
 ## Lab Overview
 
-In this lab, you will explore how Microsoft 365 Copilot and Copilot Studio Lite empower users to create, customize, and deploy their own AI-powered assistants. You’ll design a specialized Copilot agent by defining its role, tone, and purpose, then connect it to relevant business data for grounded responses. Through hands-on exercises in Word, Teams, and Copilot Chat, you’ll test, refine, and publish your custom agent, seeing firsthand how tailored Copilots can extend Microsoft 365 capabilities, automate knowledge sharing, and drive smarter collaboration across the organization.
+In this lab, you will explore how Microsoft 365 Copilot and Copilot Studio Lite empower users to create, customize, and deploy their own AI-powered assistants. You’ll design a specialized Copilot agent by defining its role, tone, and purpose, then connect it to relevant business data for grounded responses. 
 
 ## Lab Objectives
 
@@ -20,8 +20,6 @@ By the end of this lab, you will be able to:
 
 - **Test and validate agent performance:** Interact with your custom agent to verify that it understands uploaded content, responds accurately, and maintains the defined tone and purpose.
 
-- **Publish and share the Copilot agent across the organization:** Deploy your agent within Microsoft 365 Copilot, making it available for team collaboration, feedback, and real-world use.
-
 - **Understand how Copilot Studio Lite supports enterprise productivity:** Learn how custom Copilot agents can enhance collaboration, automate domain-specific knowledge sharing, and extend Copilot capabilities within Microsoft 365.
 
 ## Prerequisites
@@ -31,17 +29,17 @@ Familiarity with conversational AI concepts, business workflows, or using Copilo
 
 ## Architecture
 
-This lab demonstrates how Microsoft 365 Copilot and integrated Copilot agents connect workflows across Word, PowerPoint, Outlook, Teams, and Copilot Chat to streamline ideation, communication, and business planning.
+This lab demonstrates how **Copilot Studio Lite** integrates with **Microsoft 365 Copilot** to build, train, and deploy custom AI agents that enhance collaboration and knowledge sharing across organizational workflows. The architecture connects content, context, and interaction within the Microsoft 365 environment to create an adaptive, knowledge-driven assistant.
 
-* **Copilot in Word:** Assists in drafting business concepts, refining tone, and structuring detailed plans or proposals. It turns raw ideas into professional, well-organized documents ready for review or collaboration.
+* **Copilot Studio Lite:** Serves as the design and configuration layer where the agent’s personality, scope, and knowledge base are defined. It connects the agent to structured and unstructured data sources like project documents and FAQs.
 
-* **Copilot in PowerPoint:** Converts Word content or Copilot Chat insights into visually engaging presentations. It designs slides, summarizes key points, and formats layouts for executive-ready presentations.
+* **Knowledge Base Integration:** Acts as the grounding layer for the agent. Uploaded files provide factual context that the agent uses to generate accurate, relevant responses to user queries.
 
-* **Copilot in Outlook:** Simplifies communication by drafting professional emails, coordinating feedback, and scheduling project discussions. It ensures clear, consistent messaging across stakeholders.
+* **Copilot Chat Interface:** Functions as the interaction layer where users communicate directly with the agent, asking questions or requesting information derived from the shared knowledge base.
 
-* **Copilot in Teams:** Facilitates collaboration by summarizing meeting discussions, generating follow-up actions, and integrating insights from Word and PowerPoint into shared project channels.
+* **Microsoft 365 Ecosystem (Word, Teams, Outlook):** Provides the collaboration and productivity environment where the published Copilot agent can be accessed, shared, and used in real scenarios, enabling contextual assistance within existing workflows.
 
-* **Copilot Agent:** Acts as the central orchestrator that connects all Copilot experiences, researching market opportunities, summarizing insights, and coordinating outputs across apps to bring new business ideas to life efficiently.
+* **Publishing and Access Layer:** Once the agent is created, it is published and shared organization-wide, allowing team members to interact with it through a unified link. This ensures consistent, AI-driven support across projects and departments.
 
 ## Architecture Diagram: 
 
@@ -49,17 +47,19 @@ This lab demonstrates how Microsoft 365 Copilot and integrated Copilot agents co
 
 ## Explanation of Components
 
-* **Copilot in Word:** AI-powered writing assistant that helps develop structured business concepts, refine tone and clarity, and organize ideas into polished documents. It’s used to draft proposals, summarize discussions, and prepare executive-ready reports.
+* **Copilot Studio Lite:** A lightweight web-based environment within Microsoft 365 Copilot used to create, configure, and publish custom AI agents. It provides an intuitive interface for defining an agent’s purpose, tone, and behavior, and for connecting it to knowledge sources like project documents.
 
-* **Copilot in PowerPoint:** Visual storytelling companion that converts written plans or ideas into professional presentations. It designs slides, creates visuals, and ensures consistency in messaging and structure for executive presentations.
+* **Copilot Agent:** A customizable AI assistant built within Copilot Studio Lite. It can be trained on project-specific documents and instructions to assist users with domain-specific queries, automate information retrieval, and enhance collaboration.
 
-* **Copilot in Outlook:** Productivity assistant that automates communication tasks, drafting emails, summarizing threads, and coordinating meeting logistics. It keeps collaboration smooth and aligned across teams.
+* **Knowledge Base:** The collection of uploaded documents (like SOPs, FAQs, and troubleshooting guides) that form the factual foundation of the agent’s responses. The quality and relevance of these documents directly impact the agent’s accuracy and usefulness.
 
-* **Copilot in Teams:** Collaboration-focused assistant that summarizes meetings, identifies next steps, and helps maintain context across conversations. It integrates inputs from Word, PowerPoint, and Chat to keep projects organized.
+* **Instructions Section:** The configuration area where you define the agent’s role, behavior, and tone. These act as guiding principles for how the agent interprets queries and structures its responses.
 
-* **Copilot Chat:** Conversational hub for ideation and research. It helps brainstorm business ideas, refine strategies, and connect insights from multiple apps to form cohesive plans or presentations.
+* **Try It Panel:** The testing interface within Copilot Studio Lite where users can interact with the configured agent in real time, verify its understanding of uploaded knowledge, and refine its behavior before publishing.
 
-* **Copilot Agent:** Acts as an intelligent orchestrator across Microsoft 365 apps, performing research, synthesizing insights, and guiding workflows that connect content creation, communication, and decision-making.
+* **Publish and Share:** The final deployment step that makes the agent accessible to others within the organization. Once published, the agent can be shared via a link and embedded into collaborative tools like Microsoft Teams or Copilot Chat.
+
+* **Microsoft 365 Copilot Integration:** The underlying ecosystem that connects the custom Copilot agent to productivity apps like Word, Excel, and Teams—enabling contextual assistance, content generation, and project support within familiar workflows.
 
 ## Getting Started with the Lab
 
