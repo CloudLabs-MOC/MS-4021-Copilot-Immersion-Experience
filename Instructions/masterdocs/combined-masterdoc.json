@@ -1,0 +1,72 @@
+[
+    {
+      "Name": "MS-4021 : Copilot Immersion Experience",
+      "Language": "English",
+      "Files": [
+          {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Getting-started-page/Module01.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/6-Executive-Assistant-Demo.md",
+          "Order": 2
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/7-Business-Manager-Demo.md",
+          "Order": 3
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/2-Communications-Demo.md",
+          "Order": 4
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/3-HR-Demo.md",
+          "Order": 5
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/4-Sales-Demo.md",
+          "Order": 6
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/8-Marketing-Demo.md",
+          "Order": 7
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/9-Operations-Demo.md",
+          "Order": 8
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/5-IT-Demo.md",
+          "Order": 9
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/10-Legal-Demo.md",
+          "Order": 10
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/11-Finance-Demo.md",
+          "Order": 11
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/12-Researcher-Analyst-Demo.md",
+          "Order": 12
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/13-Copilot-studio-Demo.md",
+          "Order": 13
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/Lab-01%3A%20Brainstorm%20ideas%20using%20Microsoft%20365%20Copilot%20Chat.md",
+          "Order": 14
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/Lab-02%3A%20Develop%20a%20concept%20using%20Microsoft%20365%20Copilot%20in%20Word.md",
+          "Order": 15
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4021-Copilot-Immersion-Experience/refs/heads/prod/Instructions/Demos/Lab-03%3A%20Create%20a%20presentation%20using%20Microsoft%20365%20Copilot%20in%20PowerPoint.md",
+          "Order": 16
+        }
+      ]
+    }
+  ]
