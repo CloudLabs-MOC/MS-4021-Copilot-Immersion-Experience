@@ -67,7 +67,7 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![](../Demos/Images/AI-3025-g1.png)
+![](../Demos/Images/envtab.png)
 
 ## Lab Guide Zoom In/Zoom Out
  
@@ -79,7 +79,13 @@ To adjust the zoom level for the environment page, click the **A↕: 100%** icon
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-![](../Demos/Images/AI-3025-g3.png)
+![](../Demos/Images/splittab.png)
+
+## Lab Progress
+
+You can use the **Progress** tab to track your progress while working on the lab. A score will be provided after successful validation.
+
+![](../Demos/Images/progresstab.png)
 
 ## Managing Your Virtual Machine
  
